@@ -123,7 +123,7 @@ function dataset:__init(...)
    end
    ----------------------------------------------------------------------
    -- Options for the GNU find command
-   local extensionList = {'avi'}
+   local extensionList = {opt.videoExtension}
 
    local findOptions = ' -iname "*.' .. extensionList[1] .. '"'
    for i=2,#extensionList do

@@ -21,11 +21,12 @@ Start a HTTP server by
 ```
 cd /path/to/trainplot/
 python -m SimpleHTTPServer
+python -m http.server
 ```
 
 Open showplots.html in browser to change the JSON path, or specify with query string like
 ```
-http://localhost:8000/showplots.html?path=plot-data/UCF101/exp.json
+http://localhost:8000/showplots.html?path=plot-data/2kporn/exp.json
 ```
 
 

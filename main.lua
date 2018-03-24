@@ -31,7 +31,7 @@ if(opt.evaluate) then
     opt.save         = paths.concat(opt.logRoot, opt.dataset, opt.expName, 'test_' .. opt.modelNo .. '_slide' .. opt.slide)
     opt.cache        = paths.concat(opt.logRoot, opt.dataset, 'cache', 'test', opt.stream)
     opt.scales       = false
-    opt.crops10      = true
+--    opt.crops10      = true
     opt.testDir      = 'test_' .. opt.loadSize[2] .. '_' .. opt.slide
     opt.retrain      = paths.concat(opt.logRoot, opt.dataset, opt.expName, 'model_' .. opt.modelNo .. '.t7')
     opt.finetune     = 'none'
@@ -58,7 +58,9 @@ print(opt)
 print('Saving everything to: ' .. opt.save)
 torch.save(paths.concat(opt.save, 'opt' .. os.time() .. '.t7'), opt)
 torch.setdefaulttensortype('torch.FloatTensor')
+print('GPU Device count: ' .. cutorch.getDeviceCount())
 cutorch.setDevice(opt.GPU)
+print('GPU Device set: ' .. cutorch.getDevice())
 torch.manualSeed(opt.manualSeed)
 
 paths.dofile('data.lua')
@@ -70,7 +72,9 @@ if(not opt.evaluate) then
     paths.dofile('train.lua')
     epoch = opt.epochNumber
     for i=1,opt.nEpochs do
-        train()
+        if (not opt.skip_train) then
+            train()
+        end
         test()
         os.execute('scp ' .. paths.concat(opt.save, 'plot.json') .. ' ' .. paths.concat('trainplot/plot-data/', opt.dataset, opt.expName:gsub('%W','') ..'.json'))
         epoch = epoch + 1

@@ -7,26 +7,32 @@ function M.parse(arg)
     cmd:text()
     cmd:text('Options:')
     ------------ Path options -----------------------------------------------------------------------------------------------
-    cmd:option('-dataRoot',        './datasets',            'Directory of datasets')
-    cmd:option('-dataset',         'UCF101',                'Name of the dataset (UCF101 | HMDB51)')
+    cmd:option('-dataRoot',        '/data/torch/ltc/datasets',            'Directory of datasets')
+    cmd:option('-dataset',         '2kporn',                'Name of the dataset (UCF101 | HMDB51 | 2kporn)')
     cmd:option('-split',            1,                      'Split no (1 | 2 | 3)')
     cmd:option('-logRoot',         './log',                 'Log')
     cmd:option('-expName',         'exp',                   'Path to experiment')
-    cmd:option('-data',            './datasets/UCF101',     'Path to dataset') -- redundant
-    cmd:option('-framesRoot',    './datasets/UCF101/flow/t7','Path to .t7 files') -- redundant
+    cmd:option('-data',            './datasets/2kporn',     'Path to dataset') -- redundant
+    cmd:option('-framesRoot',    './datasets/2kporn/rgb/jpg','Path to .t7 files') -- redundant
     cmd:option('-save',            './log/exp/save',        'Directory in which to log experiments') -- redundant
     cmd:option('-cache',           './log/exp/cache',       'Directory in which to cache data info') -- redundant
-    cmd:option('-testDir',         'test',                  'Directory name of the test data')
+    cmd:option('-testDir',         'validation',            'Directory name of the test data')
+    cmd:option('-videoExtension',  'mp4',                   'Extension of videos in dataset split')
+    cmd:option('-nott7',           true,                    'use t7 files or jpg folder')
+    cmd:option('-framestep',       1,                       'every [framestep] frame is used to create the window/snippet')
     ------------ General options --------------------
     cmd:option('-manualSeed',      2,                       'Manually set RNG seed')
     cmd:option('-GPU',             1,                       'Default preferred GPU')
-    cmd:option('-backend',         'cudnn',                 'cudnn | cunn | nn')
+    cmd:option('-backend',         'cunn',                  'cudnn | cunn | nn')
     cmd:option('-nDonkeys',        8,                       'Number of data loading threads (0 for debugging)') 
     cmd:option('-evaluate',        false,                   'Testing final predictions given model')
     cmd:option('-continue',        false,                   'Continuing stopped training from where it left')
+    cmd:option('-skip_train',      false,                   'Skip train to retest epoch')
     ------------- Data processing options ----------------------------------------------------------------------------------
     cmd:option('-loadSize',        {2, 100, 67, 89},        '(#channels, #frames, height, width) of video files') -- redundant
     cmd:option('-sampleSize',      {2, 100, 58, 58},        '(#channels, #frames, height, width) of sampled videos') -- redundant
+    cmd:option('-dimensionsDir','/DL/2kporn/dimensions_video','Directory where to find dimensions if they are not fixed')
+    cmd:option('-cropbeforeresize', false,                  'change default order of crop and resize functions when feeding the network')
     cmd:option('-nFrames',         100,                     'loadSize[2], sampleSize[2]')
     cmd:option('-loadHeight',      67,                      'loadSize[3]')
     cmd:option('-loadWidth',       89,                      'loadSize[4]')
@@ -38,9 +44,11 @@ function M.parse(arg)
     cmd:option('-minmax',          true,                    'Minmax normalization')
     cmd:option('-padType',         'copy',                  'Padding type for clips < #frames. (zero | copy)')
     cmd:option('-coeff',           1,                       'Scalar multiplication of the input')
-    cmd:option('-scales',          {1.0, 0.875, 0.75, 0.66},'Multiscale cropping coefficients (false | {list})')
+--    cmd:option('-scales',          {1.0, 0.875, 0.75, 0.66},'Multiscale cropping coefficients (false | {list})')
+    cmd:option('-scales',          false,                   'Multiscale cropping coefficients (false | {list})')
     cmd:option('-slide',           4,                       'Sliding window stride at test time')
     cmd:option('-crops10',         false,                   'Whether the test will be done on 10 crops or the center crop.')
+    cmd:option('-crops6',          false,                   'Whether the train will be done on 6 crops or the center crop.')
     cmd:option('-bgr',             false,                   'BGR order (e.g. for C3D model ported from caffe)')
     ------------- Training options -----------------------------------------------------------------------------------------
     cmd:option('-nEpochs',         50,                      'Number of total epochs to run')

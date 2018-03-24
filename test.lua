@@ -1,7 +1,7 @@
 testLogger = optim.Logger(paths.concat(opt.save, opt.testDir .. '.log'))
 
 local batchNumber
-local acc, loss
+local acc, loss, bacc, true_nonporn, total_nonporn, true_porn, total_porn
 local timer = torch.Timer()
 
 function test()
@@ -25,6 +25,12 @@ function test()
 
     acc  = 0
     loss = 0
+    bacc = 0
+    true_nonporn = 0
+    total_nonporn = 0
+    true_porn = 0
+    total_porn = 0
+
     for i=1, N do
         local indexStart = (i-1) * torch.floor(opt.batchSize/nDiv) + 1
         local indexEnd = (indexStart + torch.floor(opt.batchSize/nDiv) - 1)
@@ -44,18 +50,21 @@ function test()
 
     acc  = acc * 100 / nTest
     loss = loss / (nTest/torch.floor(opt.batchSize/nDiv)) -- because loss is calculated per batch
+    bacc = ((true_nonporn / total_nonporn) + (true_porn / total_porn)) * 100 / 2
 
     if(not opt.evaluate) then
         testLogger:add{
             ['epoch'] = epoch,
             ['acc'] = acc,
+            ['bacc'] = bacc,
             ['loss'] = loss,
             ['LR'] = optimState.learningRate
         }
         opt.plotter:add('accuracy', 'test', epoch, acc)
+        opt.plotter:add('balanced_accuracy', 'test', epoch, bacc)
         opt.plotter:add('loss', 'test', epoch, loss)
-        print(string.format('Epoch: [%d][TESTING SUMMARY] Total Time(s): %.2f \t Loss: %.2f \t Acc: %.2f\n',
-            epoch, timer:time().real, loss, acc))
+        print(string.format('Epoch: [%d][TESTING SUMMARY] Total Time(s): %.2f \t Loss: %.2f \t Acc: %.2f \t Bacc: %.2f\n',
+            epoch, timer:time().real, loss, acc, bacc))
     else
         paths.dofile('donkey.lua')
         local videoAcc = testLoader:computeAccuracy(clipScores)
@@ -65,10 +74,11 @@ function test()
         torch.save(paths.concat(opt.save, 'result.t7'), result)
         testLogger:add{
             ['clipAcc'] = acc,
+            ['clipBacc'] = bacc,
             ['videoAcc'] = videoAcc
         }
-        print(string.format('[TESTING SUMMARY] Total Time(s): %.2f \t Loss: %.2f \t Clip Acc: %.2f \t Video Acc: %.2f\n',
-            timer:time().real, loss, acc, videoAcc))
+        print(string.format('[TESTING SUMMARY] Total Time(s): %.2f \t Loss: %.2f \t Clip Acc: %.2f \t Clip Bacc: %.2f \t Video Acc: %.2f\n',
+            timer:time().real, loss, acc, bacc, videoAcc))
     end
 end -- of test()
 -----------------------------------------------------------------------------
@@ -112,7 +122,22 @@ function testBatch(inputsCPU, labelsCPU, indicesCPU)
     for i=1,scoresCPU:size(1) do
         gt = labelsCPU[i]                    -- ground truth class
         pred = scores_sorted[i][1]           -- predicted class
-        if pred == gt then acc = acc + 1 end -- correct prediction
+        if pred == gt then  -- correct prediction
+            acc = acc + 1
+            if labelsCPU[i] == 1 then
+                true_nonporn = true_nonporn + 1
+                total_nonporn = total_nonporn + 1
+            else
+                true_porn = true_porn + 1
+                total_porn = total_porn + 1
+            end
+        else
+            if gt == 1 then
+                total_nonporn = total_nonporn + 1
+            else
+                total_porn = total_porn + 1
+            end
+        end
 
         if(opt.evaluate) then
             clipScores[indicesCPU[i]] = scoresCPU[i]

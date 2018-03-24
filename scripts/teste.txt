@@ -1,0 +1,4005 @@
+Namespace(videos_path='/home/jp/DL/2kporn/videos/')
+> Generate frame based etf from videos - Tue Jan 16 00:02:10 2018
+Extract from /home/jp/DL/2kporn/videos/, using 1 threads.
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000172.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000908.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000775.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000227.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000124.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000741.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000602.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000339.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000040.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000772.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000244.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000203.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000972.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000754.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000842.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000390.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000593.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000343.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000296.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000234.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000510.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000252.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000718.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000555.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000510.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000994.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000192.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000517.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000700.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000109.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000999.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000090.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000446.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000399.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000988.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000579.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000044.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000976.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000032.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000925.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000872.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000043.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000847.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000570.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000921.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000970.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000948.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000601.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000608.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000890.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000418.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000737.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000530.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000233.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000467.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000905.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000841.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000484.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000451.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000639.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000080.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000223.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000592.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000623.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000061.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000744.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000281.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000653.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000233.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000062.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000949.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000819.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000051.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000902.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000204.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000507.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000156.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000365.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000813.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000431.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000695.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000752.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000391.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000824.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000505.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000688.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000788.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000083.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000954.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000674.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000397.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000091.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000002.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000669.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000039.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000476.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000216.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000529.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000527.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000928.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000867.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000960.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000124.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000455.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000144.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000638.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000553.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000752.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000735.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000964.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000114.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000058.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000664.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000268.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000511.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000251.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000800.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000776.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000554.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000666.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000917.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000600.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000301.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000605.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000644.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000263.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000618.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000395.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000069.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000360.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000919.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000469.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000385.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000228.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000932.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000185.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000404.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000338.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000316.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000790.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000428.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000377.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000444.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000830.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000659.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000106.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000504.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000795.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000144.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000027.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000298.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000241.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000785.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000198.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000852.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000378.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000563.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000153.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000551.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000782.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000684.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000346.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000113.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000716.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000588.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000118.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000423.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000452.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000803.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000518.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000702.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000934.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000942.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000760.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000289.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000876.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000319.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000312.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000974.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000496.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000672.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000429.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000896.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000909.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000119.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000171.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000736.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000317.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000344.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000134.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000422.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000045.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000853.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000922.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000259.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000942.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000133.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000296.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000132.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000327.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000568.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000287.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000805.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000780.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000019.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000742.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000386.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000698.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000601.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000231.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000729.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000337.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000892.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000084.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000380.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000928.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000315.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000279.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000649.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000430.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000465.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000010.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000103.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000294.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000959.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000779.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000197.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000273.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000485.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000253.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000205.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000918.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000344.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000004.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000620.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000698.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000856.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000128.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000797.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000901.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000815.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000996.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000668.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000058.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000707.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000223.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000784.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000392.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000831.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000582.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000897.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000987.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000005.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000064.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000822.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000508.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000533.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000239.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000199.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000575.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000374.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000053.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000762.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000846.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000799.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000650.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000651.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000816.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000472.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000697.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000591.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000195.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000388.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000717.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000332.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000549.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000396.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000032.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000246.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000817.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000643.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000054.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000731.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000109.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000700.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000778.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000875.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000635.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000703.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000757.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000530.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000796.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000351.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000864.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000512.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000626.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000955.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000500.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000834.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000074.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000207.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000923.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000978.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000047.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000210.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000446.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000907.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000031.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000634.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000755.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000537.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000733.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000699.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000318.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000117.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000162.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000649.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000447.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000274.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000538.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000755.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000458.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000417.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000256.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000154.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000168.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000956.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000143.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000473.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000525.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000395.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000898.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000610.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000173.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000175.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000428.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000417.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000562.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000835.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000440.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000594.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000141.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000915.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000823.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000402.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000906.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000576.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000197.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000940.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000136.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000637.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000632.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000524.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000331.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000889.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000275.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000639.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000499.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000071.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000292.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000256.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000938.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000704.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000749.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000098.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000619.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000654.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000002.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000561.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000668.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000415.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000104.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000611.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000926.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000820.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000302.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000248.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000674.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000334.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000980.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000986.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000701.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000463.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000916.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000290.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000976.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000134.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000709.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000497.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000467.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000471.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000642.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000057.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000540.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000042.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000623.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000358.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000653.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000535.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000208.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000810.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000825.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000878.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000093.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000471.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000130.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000457.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000600.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000088.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000532.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000933.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000161.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000394.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000793.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000526.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000778.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000597.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000258.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000915.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000965.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000135.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000548.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000164.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000236.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000520.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000427.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000271.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000486.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000131.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000281.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000183.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000069.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000571.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000288.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000615.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000608.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000081.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000477.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000228.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000593.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000647.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000881.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000724.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000418.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000194.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000627.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000375.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000242.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000364.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000114.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000759.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000065.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000242.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000706.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000068.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000616.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000048.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000284.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000142.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000411.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000979.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000541.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000927.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000766.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000403.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000569.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000034.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000714.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000672.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000121.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000500.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000501.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000329.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000603.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000821.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000371.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000210.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000249.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000661.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000539.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000845.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000440.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000843.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000883.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000167.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000877.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000552.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000523.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000658.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000282.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000763.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000504.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000201.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000524.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000807.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000232.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000539.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000324.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000562.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000022.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000408.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000677.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000693.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000222.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000219.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000963.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000052.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000606.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000349.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000626.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000508.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000640.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000199.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000127.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000799.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000840.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000156.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000062.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000826.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000714.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000155.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000756.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000474.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000953.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000536.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000262.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000275.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000712.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000405.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000762.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000994.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000487.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000295.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000436.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000353.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000160.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000057.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000469.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000811.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000680.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000922.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000867.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000478.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000819.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000995.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000010.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000840.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000747.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000286.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000051.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000919.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000214.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000900.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000302.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000328.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000997.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000229.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000226.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000218.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000541.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000932.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000732.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000354.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000213.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000751.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000076.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000741.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000860.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000929.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000102.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000556.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000931.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000613.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000636.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000625.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000303.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000633.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000996.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000746.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000945.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000624.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000723.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000590.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000313.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000617.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000342.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000369.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000853.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000454.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000746.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000085.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000574.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000567.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000828.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000350.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000135.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000624.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000486.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000946.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000737.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000749.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000105.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000154.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000578.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000777.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000673.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000765.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000670.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000934.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000732.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000813.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000745.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000955.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000070.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000577.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000304.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000327.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000652.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000953.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000734.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000509.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000430.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000761.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000572.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000019.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000359.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000829.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000691.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000278.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000305.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000437.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000403.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000783.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000202.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000513.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000090.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000689.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000911.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000675.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000138.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000883.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000662.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000005.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000897.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000821.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000767.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000024.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000336.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000412.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000491.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000728.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000036.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000272.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000832.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000648.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000753.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000385.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000099.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000280.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000014.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000381.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000476.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000547.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000366.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000265.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000665.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000603.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000968.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000811.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000120.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000173.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000701.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000652.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000723.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000381.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000962.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000683.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000858.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000027.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000070.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000891.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000293.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000280.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000303.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000949.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000896.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000770.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000831.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000015.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000061.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000325.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000359.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000326.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000703.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000646.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000097.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000152.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000259.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000265.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000775.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000766.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000717.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000739.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000181.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000136.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000951.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000262.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000483.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000757.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000716.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000209.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000427.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000556.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000981.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000459.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000892.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000155.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000355.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000874.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000347.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000024.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000662.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000360.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000125.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000456.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000740.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000988.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000181.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000607.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000990.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000876.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000308.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000844.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000277.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000969.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000776.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000673.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000215.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000916.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000115.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000378.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000246.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000670.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000143.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000550.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000940.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000534.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000763.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000786.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000679.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000078.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000464.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000412.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000733.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000789.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000950.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000815.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000888.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000522.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000726.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000171.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000224.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000546.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000373.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000238.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000511.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000150.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000839.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000489.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000064.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000290.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000727.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000355.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000887.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000479.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000320.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000310.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000885.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000291.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000903.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000461.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000204.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000773.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000140.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000895.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000956.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000861.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000557.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000627.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000165.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000166.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000229.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000806.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000967.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000315.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000309.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000285.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000139.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000311.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000789.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000488.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000694.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000316.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000348.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000267.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000411.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000250.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000169.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000126.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000574.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000513.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000587.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000483.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000180.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000086.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000055.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000810.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000804.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000270.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000126.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000104.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000188.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000201.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000455.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000944.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000307.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000145.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000341.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000906.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000961.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000374.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000297.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000451.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000494.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000484.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000948.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000227.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000237.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000735.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000586.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000837.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000912.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000636.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000004.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000529.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000786.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000192.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000413.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000240.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000357.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000935.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000318.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000354.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000409.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000163.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000148.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn001000.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000293.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000638.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000405.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000777.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000361.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000748.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000743.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000986.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000937.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000170.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000553.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000890.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000309.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000768.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000860.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000925.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000433.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000100.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000368.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000288.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000931.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000519.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000506.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000351.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000880.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000193.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000565.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000560.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000888.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000628.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000442.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000884.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000008.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000438.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000577.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000117.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000783.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000721.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000828.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000968.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000194.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000989.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000750.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000682.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000060.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000552.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000686.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000790.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000965.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000705.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000138.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000995.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000100.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000660.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000313.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000774.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000255.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000320.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000206.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000225.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000089.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000129.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000958.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000573.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000084.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000634.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000527.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000287.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000015.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000182.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000818.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000277.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000865.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000966.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000879.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000930.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000959.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000086.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000543.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000356.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000130.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000576.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000568.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000913.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000214.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000933.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000089.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000690.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000839.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000424.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000294.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000599.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000802.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000480.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000792.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000798.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000566.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000771.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000802.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000563.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000191.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000560.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000606.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000697.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000946.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000580.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000185.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000450.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000611.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000966.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000219.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000017.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000920.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000393.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000570.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000364.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000373.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000580.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000582.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000794.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000565.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000020.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000567.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000640.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000317.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000066.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000930.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000516.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000106.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000400.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000855.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000610.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000042.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000827.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000722.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000397.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000709.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000377.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000284.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000985.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000450.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000339.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000569.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000362.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000818.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000581.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000020.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000685.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000419.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000406.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000028.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000184.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000306.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000012.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000598.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000363.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000343.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000009.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000491.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000161.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000720.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000190.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000283.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000784.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000350.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000137.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000739.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000880.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000751.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000695.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000207.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000129.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000871.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000773.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000854.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000495.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000748.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000266.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000332.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000506.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000391.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000887.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000026.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000081.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000984.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000375.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000465.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000812.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000851.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000631.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000891.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000893.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000176.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000147.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000566.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000482.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000938.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000321.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000445.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000054.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000498.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000083.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000809.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000961.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000110.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000607.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000255.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000525.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000132.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000620.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000544.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000540.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000425.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000661.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000545.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000879.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000307.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000597.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000771.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000349.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000903.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000177.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000521.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000479.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000493.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000803.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000655.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000334.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000952.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000076.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000475.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000533.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000198.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000870.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000588.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000148.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000347.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000542.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000243.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000095.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000531.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000113.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000063.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000984.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000456.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000656.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000145.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000441.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000991.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000889.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000424.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000666.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000939.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000589.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000468.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000264.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000595.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000699.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000873.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000116.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000151.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000646.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000038.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000025.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000686.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000614.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000426.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000622.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000962.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000909.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000902.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000389.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000003.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000196.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000421.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000346.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000459.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000859.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000654.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000001.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000176.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000767.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000330.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000982.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000108.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000276.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000060.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000212.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000618.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000286.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000882.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000071.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000711.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000586.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000420.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000677.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000278.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000263.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000765.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000319.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000189.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000559.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000692.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000781.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000072.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000447.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000257.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000865.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000989.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000420.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000729.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000437.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000300.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000824.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000834.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000003.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000224.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000260.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000523.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000033.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000992.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000993.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000410.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000836.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000123.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000366.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000008.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000044.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000583.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000272.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000594.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000072.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000721.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000679.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000365.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000951.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000671.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000049.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000056.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000740.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000248.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000817.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000180.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000535.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000602.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000609.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000734.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000340.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000499.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000112.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000402.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000122.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000555.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000168.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000480.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000230.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000416.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000667.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000628.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000905.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000706.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000436.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000849.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000237.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000045.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000935.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000049.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000376.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000434.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000528.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000584.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000882.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000808.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000449.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000705.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000758.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000719.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000441.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000796.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000526.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000967.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000846.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000448.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000012.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000884.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000063.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000914.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000470.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000722.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000209.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000983.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000707.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000468.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000092.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000029.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000829.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000870.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000745.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000326.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000820.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000868.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000013.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000579.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000458.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000621.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000370.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000794.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000016.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000595.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000357.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000410.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000409.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000082.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn001000.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000046.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000644.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000842.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000035.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000979.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000841.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000396.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000753.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000187.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000001.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000406.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000710.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000688.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000220.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000975.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000630.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000575.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000167.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000398.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000886.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000040.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000874.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000013.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000545.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000310.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000037.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000863.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000142.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000401.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000150.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000585.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000589.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000937.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000534.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000713.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000038.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000244.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000361.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000239.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000059.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000324.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000747.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000482.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000850.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000189.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000907.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000659.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000977.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000026.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000096.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000398.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000345.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000188.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000387.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000196.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000234.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000122.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000572.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000137.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000647.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000785.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000871.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000415.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000622.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000557.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000257.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000619.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000788.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000030.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000031.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000261.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000252.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000098.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000971.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000641.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000362.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000929.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000715.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000782.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000914.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000123.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000585.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000221.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000037.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000655.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000107.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000975.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000849.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000981.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000678.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000952.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000205.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000159.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000998.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000383.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000200.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000217.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000696.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000341.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000791.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000687.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000658.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000073.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000041.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000047.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000470.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000182.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000096.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000306.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000370.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000532.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000561.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000750.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000323.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000758.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000184.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000559.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000442.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000011.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000494.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000151.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000021.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000390.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000590.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000926.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000321.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000548.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000693.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000056.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000992.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000848.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000671.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000048.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000550.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000141.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000325.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000899.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000202.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000018.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000792.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000085.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000718.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000872.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000314.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000429.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000520.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000997.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000738.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000863.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000439.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000342.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000517.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000866.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000152.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000690.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000050.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000235.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000213.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000730.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000435.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000901.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000612.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000826.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000340.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000269.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000859.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000814.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000837.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000770.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000904.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000596.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000680.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000258.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000231.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000973.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000254.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000656.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000816.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000068.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000174.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000452.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000222.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000605.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000299.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000177.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000651.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000727.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000970.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000964.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000110.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000444.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000274.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000822.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000462.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000055.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000358.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000254.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000885.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000035.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000918.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000650.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000993.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000862.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000449.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000797.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000166.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000112.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000604.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000869.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000941.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000301.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000353.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000407.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000669.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000203.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000812.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000637.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000422.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000225.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000163.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000235.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000414.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000217.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000389.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000073.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000941.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000814.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000531.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000980.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000798.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000289.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000490.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000801.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000780.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000768.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000079.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000067.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000372.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000380.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000108.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000282.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000460.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000074.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000462.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000158.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000927.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000492.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000787.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000270.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000376.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000009.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000779.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000299.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000900.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000635.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000421.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000971.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000438.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000157.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000898.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000266.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000400.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000079.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000186.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000178.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000708.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000493.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000667.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000490.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000894.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000300.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000645.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000873.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000075.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000954.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000726.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000943.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000551.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000333.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000728.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000368.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000621.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000481.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000836.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000432.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000472.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000179.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000445.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000978.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000503.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000241.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000764.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000990.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000536.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000731.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000030.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000322.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000249.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000912.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000875.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000314.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000528.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000267.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000025.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000261.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000371.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000591.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000947.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000211.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000481.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000806.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000434.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000547.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000088.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000187.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000592.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000985.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000538.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000279.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000174.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000648.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000105.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000629.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000521.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000725.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000240.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000599.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000331.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000485.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000149.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000260.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000091.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000414.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000503.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000704.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000379.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000950.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000146.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000195.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000522.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000801.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000549.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000356.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000453.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000616.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000466.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000571.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000630.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000537.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000518.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000336.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000691.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000094.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000712.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000756.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000466.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000423.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000987.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000386.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000285.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000764.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000502.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000029.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000736.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000857.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000495.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000443.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000183.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000886.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000708.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000140.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000169.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000102.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000584.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000111.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000093.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000645.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000111.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000006.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000719.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000007.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000066.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000807.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000643.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000087.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000369.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000232.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000264.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000869.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000596.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000809.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000613.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000543.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000855.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000868.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000983.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000212.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000408.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000505.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000678.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000825.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000844.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000191.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000743.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000515.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000329.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000791.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000861.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000067.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000904.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000564.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000172.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000461.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000236.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000247.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000439.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000392.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000018.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000724.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000856.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000211.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000028.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000401.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000516.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000433.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000833.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000664.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000165.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000473.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000702.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000631.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000021.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000685.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000944.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000598.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000276.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000498.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000754.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000426.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000713.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000253.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000363.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000127.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000957.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000487.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000866.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000393.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000312.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000251.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000924.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000399.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000448.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000407.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000333.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000827.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000149.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000489.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000345.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000295.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000657.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000133.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000379.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000016.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000854.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000913.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000947.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000226.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000999.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000804.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000936.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000082.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000164.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000348.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000957.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000283.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000432.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000097.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000221.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000772.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000694.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000034.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000291.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000642.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000118.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000609.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000769.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000744.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000939.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000998.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000352.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000696.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000464.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000969.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000488.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000921.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000852.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000170.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000943.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000425.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000632.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000006.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000832.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000322.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000720.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000245.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000292.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000617.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000271.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000115.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000121.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000833.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000502.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000147.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000878.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000774.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000478.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000454.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000945.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000460.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000384.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000625.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000125.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000475.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000974.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000394.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000960.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000095.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000352.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000367.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000963.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000830.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000687.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000416.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000023.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000384.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000787.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000059.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000710.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000335.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000477.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000519.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000544.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000542.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000515.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000893.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000843.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000958.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000676.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000463.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000920.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000514.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000308.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000220.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000924.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000139.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000250.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000087.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000923.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000848.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000496.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000116.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000337.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000564.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000492.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000443.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000269.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000023.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000587.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000036.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000663.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000311.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000689.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000404.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000216.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000991.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000131.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000612.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000604.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000017.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000435.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000099.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000554.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000268.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000972.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000305.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000157.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000681.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000509.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000982.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000911.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000558.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000769.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000514.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000862.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000738.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000684.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000895.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000864.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000681.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000298.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000077.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000857.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000800.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000053.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000910.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000245.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000581.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000917.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000629.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000877.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000725.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000101.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000742.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000760.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000159.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000665.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000578.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000663.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000583.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000208.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000077.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000382.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000936.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000215.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000805.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000230.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000730.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000835.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000387.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000507.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000052.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000497.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000367.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000101.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000162.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000573.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000781.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000641.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000838.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000808.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000041.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000683.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000908.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000851.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000158.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000120.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000238.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000146.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000899.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000297.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000179.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000335.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000675.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000614.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000200.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000190.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000847.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000050.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000512.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000894.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000977.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000388.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000711.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000858.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000881.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000304.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000206.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000795.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000453.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000501.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000558.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000273.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000175.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000692.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000178.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000793.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000761.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000850.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000657.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000759.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000103.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000243.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000022.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000033.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000193.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000007.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000330.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000323.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000075.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000910.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000457.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000014.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000676.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000382.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000838.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000660.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000153.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000615.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000682.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000845.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000633.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000080.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000160.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000039.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000474.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000383.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000094.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000065.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000546.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000046.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000128.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000823.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000413.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000328.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000715.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000107.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000043.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000247.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000372.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000011.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000119.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000186.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000419.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000078.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000218.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000973.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vNonPorn000338.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000092.etf 
+video path /home/jp/DL/2kporn/videos/../dimensions_video/vPorn000431.etf 
+
+> Generate frame based etf from done - Tue Jan 16 00:02:25 2018
+vNonPorn000172;214x320
+vPorn000908;364x644
+vNonPorn000775;480x640
+vNonPorn000227;218x320
+vPorn000124;240x352
+vNonPorn000741;720x1280
+vPorn000602;408x544
+vNonPorn000339;360x450
+vNonPorn000040;226x400
+vPorn000772;408x544
+vNonPorn000244;240x320
+vNonPorn000203;226x400
+vNonPorn000972;720x1280
+vPorn000754;364x646
+vPorn000842;364x646
+vNonPorn000390;270x480
+vPorn000593;364x646
+vNonPorn000343;270x480
+vNonPorn000296;240x320
+vPorn000234;336x584
+vPorn000510;408x544
+vNonPorn000252;240x320
+vPorn000718;364x646
+vNonPorn000555;1080x1920
+vNonPorn000510;480x480
+vNonPorn000994;720x1280
+vNonPorn000192;240x320
+vPorn000517;364x646
+vNonPorn000700;1080x1920
+vPorn000109;390x520
+vPorn000999;364x646
+vPorn000090;438x584
+vPorn000446;480x480
+vPorn000399;240x320
+vPorn000988;364x646
+vPorn000579;364x646
+vNonPorn000044;240x320
+vNonPorn000976;240x320
+vPorn000032;390x520
+vNonPorn000925;480x640
+vNonPorn000872;720x1152
+vPorn000043;360x480
+vPorn000847;364x646
+vPorn000570;364x644
+vNonPorn000921;720x1280
+vPorn000970;364x646
+vPorn000948;364x646
+vPorn000601;364x646
+vPorn000608;364x646
+vNonPorn000890;720x1280
+vNonPorn000418;480x480
+vNonPorn000737;720x1280
+vNonPorn000530;320x568
+vNonPorn000233;240x320
+vPorn000467;480x480
+vPorn000905;408x544
+vNonPorn000841;720x1280
+vNonPorn000484;360x640
+vNonPorn000451;480x480
+vPorn000639;408x544
+vNonPorn000080;214x320
+vPorn000223;390x520
+vPorn000592;364x646
+vNonPorn000623;480x480
+vNonPorn000061;240x320
+vNonPorn000744;720x1280
+vPorn000281;240x368
+vPorn000653;408x544
+vPorn000233;336x584
+vNonPorn000062;240x294
+vNonPorn000949;240x320
+vNonPorn000819;360x490
+vNonPorn000051;240x320
+vNonPorn000902;720x1280
+vPorn000204;448x584
+vPorn000507;364x646
+vNonPorn000156;360x640
+vNonPorn000365;360x480
+vNonPorn000813;1080x1920
+vNonPorn000431;480x480
+vPorn000695;364x646
+vPorn000752;364x646
+vNonPorn000391;270x480
+vNonPorn000824;720x1280
+vNonPorn000505;720x1280
+vPorn000688;408x544
+vNonPorn000788;360x640
+vNonPorn000083;132x176
+vPorn000954;364x646
+vNonPorn000674;720x1280
+vPorn000397;240x352
+vPorn000091;240x352
+vNonPorn000002;240x320
+vPorn000669;360x438
+vPorn000039;390x520
+vPorn000476;480x480
+vNonPorn000216;214x320
+vPorn000529;364x646
+vNonPorn000527;144x192
+vPorn000928;408x544
+vNonPorn000867;720x1280
+vNonPorn000960;480x640
+vNonPorn000124;240x320
+vNonPorn000455;480x480
+vPorn000144;390x520
+vPorn000638;408x544
+vNonPorn000553;720x1280
+vNonPorn000752;720x1280
+vPorn000735;408x544
+vNonPorn000964;544x1280
+vNonPorn000114;240x312
+vNonPorn000058;240x320
+vNonPorn000664;360x640
+vPorn000268;390x520
+vNonPorn000511;480x480
+vPorn000251;390x520
+vPorn000800;364x646
+vNonPorn000776;720x1280
+vPorn000554;408x544
+vPorn000666;408x544
+vPorn000917;408x544
+vPorn000600;364x646
+vNonPorn000301;240x320
+vNonPorn000605;720x1280
+vPorn000644;364x646
+vNonPorn000263;238x320
+vPorn000618;364x646
+vNonPorn000395;132x176
+vNonPorn000069;226x400
+vPorn000360;480x640
+vPorn000919;364x646
+vPorn000469;480x480
+vPorn000385;480x640
+vNonPorn000228;240x320
+vNonPorn000932;360x640
+vPorn000185;336x584
+vNonPorn000404;480x480
+vPorn000338;448x584
+vNonPorn000316;240x320
+vPorn000790;364x646
+vNonPorn000428;480x480
+vNonPorn000377;240x320
+vNonPorn000444;720x1280
+vPorn000830;408x544
+vPorn000659;408x544
+vPorn000106;390x520
+vPorn000504;364x646
+vPorn000795;364x646
+vNonPorn000144;240x320
+vNonPorn000027;240x318
+vNonPorn000298;360x480
+vPorn000241;448x584
+vPorn000785;388x582
+vNonPorn000198;88x128
+vNonPorn000852;720x1280
+vPorn000378;480x640
+vPorn000563;408x544
+vNonPorn000153;240x320
+vNonPorn000551;720x1280
+vNonPorn000782;720x1280
+vNonPorn000684;720x1280
+vNonPorn000346;240x320
+vPorn000113;390x520
+vNonPorn000716;720x1280
+vNonPorn000588;480x480
+vPorn000118;240x320
+vPorn000423;480x480
+vPorn000452;480x480
+vPorn000803;364x646
+vNonPorn000518;360x640
+vPorn000702;406x542
+vNonPorn000934;360x480
+vPorn000942;406x542
+vNonPorn000760;720x1280
+vPorn000289;360x480
+vPorn000876;408x544
+vPorn000319;336x584
+vPorn000312;448x584
+vPorn000974;406x542
+vNonPorn000496;480x640
+vPorn000672;364x646
+vPorn000429;480x480
+vNonPorn000896;720x1280
+vNonPorn000909;480x640
+vPorn000119;390x520
+vNonPorn000171;360x480
+vPorn000736;406x542
+vNonPorn000317;360x480
+vPorn000344;336x448
+vNonPorn000134;132x176
+vPorn000422;480x480
+vNonPorn000045;240x320
+vPorn000853;408x544
+vPorn000922;364x646
+vPorn000259;464x584
+vNonPorn000942;720x1280
+vPorn000133;240x320
+vPorn000296;336x584
+vPorn000132;390x520
+vNonPorn000327;240x320
+vPorn000568;408x544
+vNonPorn000287;240x320
+vNonPorn000805;720x1280
+vPorn000780;364x646
+vPorn000019;390x520
+vNonPorn000742;720x1280
+vPorn000386;240x320
+vNonPorn000698;720x1280
+vNonPorn000601;720x1280
+vNonPorn000231;240x320
+vNonPorn000729;720x1280
+vPorn000337;448x584
+vNonPorn000892;720x1280
+vNonPorn000084;360x480
+vPorn000380;540x720
+vNonPorn000928;360x640
+vPorn000315;336x584
+vPorn000279;328x584
+vPorn000649;364x646
+vPorn000430;480x480
+vNonPorn000465;240x320
+vNonPorn000010;220x320
+vPorn000103;240x320
+vNonPorn000294;360x480
+vNonPorn000959;720x1280
+vNonPorn000779;720x1280
+vNonPorn000197;240x320
+vNonPorn000273;240x320
+vPorn000485;364x646
+vNonPorn000253;240x320
+vNonPorn000205;240x320
+vPorn000918;364x646
+vNonPorn000344;270x480
+vPorn000004;360x480
+vPorn000620;408x544
+vPorn000698;364x646
+vNonPorn000856;720x1280
+vNonPorn000128;240x320
+vPorn000797;408x544
+vPorn000901;408x544
+vNonPorn000815;352x640
+vNonPorn000996;720x1280
+vPorn000668;408x544
+vPorn000058;240x320
+vNonPorn000707;720x1280
+vNonPorn000223;240x300
+vPorn000784;364x646
+vPorn000392;576x720
+vNonPorn000831;360x640
+vPorn000582;364x646
+vNonPorn000897;360x640
+vNonPorn000987;720x1280
+vPorn000005;438x584
+vPorn000064;384x512
+vNonPorn000822;534x1280
+vPorn000508;408x544
+vNonPorn000533;360x640
+vNonPorn000239;240x320
+vNonPorn000199;240x320
+vPorn000575;364x646
+vNonPorn000374;360x480
+vPorn000053;240x320
+vPorn000762;408x544
+vNonPorn000846;360x640
+vNonPorn000799;720x1280
+vNonPorn000650;360x640
+vNonPorn000651;720x1280
+vPorn000816;364x646
+vNonPorn000472;720x1280
+vNonPorn000697;720x1280
+vNonPorn000591;480x480
+vNonPorn000195;226x400
+vNonPorn000388;360x480
+vPorn000717;364x646
+vPorn000332;328x584
+vNonPorn000549;720x1280
+vNonPorn000396;360x480
+vNonPorn000032;214x320
+vNonPorn000246;240x294
+vNonPorn000817;240x320
+vNonPorn000643;360x480
+vPorn000054;390x520
+vNonPorn000731;240x320
+vNonPorn000109;240x320
+vPorn000700;364x646
+vNonPorn000778;480x640
+vNonPorn000875;720x1280
+vNonPorn000635;720x1280
+vPorn000703;408x544
+vPorn000757;364x646
+vPorn000530;364x646
+vNonPorn000796;1080x1920
+vPorn000351;480x640
+vNonPorn000864;360x640
+vNonPorn000512;480x480
+vNonPorn000626;240x320
+vPorn000955;408x544
+vPorn000500;364x646
+vPorn000834;266x400
+vPorn000074;240x320
+vNonPorn000207;214x320
+vPorn000923;408x544
+vNonPorn000978;240x360
+vPorn000047;390x520
+vPorn000210;448x584
+vNonPorn000446;480x480
+vPorn000907;408x544
+vNonPorn000031;226x400
+vNonPorn000634;360x640
+vNonPorn000755;720x1280
+vPorn000537;364x646
+vNonPorn000733;720x1280
+vPorn000699;408x544
+vNonPorn000318;360x480
+vPorn000117;390x520
+vNonPorn000162;240x318
+vNonPorn000649;432x640
+vPorn000447;480x480
+vNonPorn000274;240x320
+vNonPorn000538;720x1280
+vPorn000755;480x624
+vPorn000458;480x480
+vNonPorn000417;720x1280
+vNonPorn000256;240x320
+vNonPorn000154;240x320
+vPorn000168;240x320
+vNonPorn000956;720x1280
+vPorn000143;390x520
+vNonPorn000473;360x640
+vNonPorn000525;360x640
+vPorn000395;240x320
+vPorn000898;364x646
+vPorn000610;408x544
+vNonPorn000173;214x320
+vPorn000175;360x480
+vPorn000428;480x480
+vPorn000417;480x480
+vNonPorn000562;720x1280
+vNonPorn000835;720x1280
+vNonPorn000440;480x480
+vNonPorn000594;480x480
+vPorn000141;390x520
+vPorn000915;364x646
+vPorn000823;408x544
+vNonPorn000402;480x480
+vPorn000906;408x544
+vNonPorn000576;360x640
+vPorn000197;328x584
+vNonPorn000940;144x176
+vPorn000136;240x352
+vPorn000637;406x542
+vNonPorn000632;544x1280
+vNonPorn000524;360x544
+vNonPorn000331;360x480
+vPorn000889;408x544
+vNonPorn000275;240x320
+vNonPorn000639;240x320
+vPorn000499;364x646
+vNonPorn000071;214x320
+vPorn000292;328x584
+vPorn000256;448x584
+vNonPorn000938;360x480
+vPorn000704;364x646
+vNonPorn000749;720x1280
+vNonPorn000098;240x320
+vPorn000619;364x646
+vNonPorn000654;360x640
+vPorn000002;240x320
+vNonPorn000561;480x480
+vNonPorn000668;720x1280
+vPorn000415;480x480
+vNonPorn000104;240x320
+vNonPorn000611;720x1280
+vNonPorn000926;720x1280
+vNonPorn000820;512x640
+vNonPorn000302;360x480
+vNonPorn000248;240x320
+vPorn000674;364x646
+vNonPorn000334;240x320
+vNonPorn000980;240x360
+vNonPorn000986;720x1280
+vNonPorn000701;240x320
+vNonPorn000463;240x320
+vNonPorn000916;240x320
+vNonPorn000290;720x1280
+vPorn000976;408x544
+vPorn000134;360x480
+vNonPorn000709;360x640
+vNonPorn000497;480x640
+vNonPorn000467;480x480
+vPorn000471;480x480
+vNonPorn000642;360x480
+vNonPorn000057;218x320
+vPorn000540;364x644
+vPorn000042;304x540
+vPorn000623;408x544
+vPorn000358;208x256
+vNonPorn000653;720x1280
+vPorn000535;408x544
+vNonPorn000208;240x316
+vNonPorn000810;720x1280
+vPorn000825;408x544
+vNonPorn000878;720x1280
+vNonPorn000093;240x320
+vNonPorn000471;480x480
+vNonPorn000130;240x320
+vPorn000457;480x480
+vNonPorn000600;464x640
+vNonPorn000088;240x320
+vNonPorn000532;360x640
+vPorn000933;406x542
+vPorn000161;360x480
+vNonPorn000394;120x160
+vNonPorn000793;360x480
+vPorn000526;364x646
+vPorn000778;364x646
+vPorn000597;406x544
+vNonPorn000258;240x320
+vNonPorn000915;360x640
+vPorn000965;364x646
+vPorn000135;240x352
+vPorn000548;406x542
+vPorn000164;390x520
+vNonPorn000236;180x320
+vNonPorn000520;360x640
+vPorn000427;480x480
+vPorn000271;300x520
+vNonPorn000486;480x640
+vPorn000131;438x584
+vNonPorn000281;240x320
+vPorn000183;390x520
+vPorn000069;240x320
+vNonPorn000571;720x1280
+vNonPorn000288;240x320
+vNonPorn000615;720x1280
+vNonPorn000608;720x1280
+vNonPorn000081;230x320
+vPorn000477;480x480
+vPorn000228;448x584
+vNonPorn000593;480x480
+vPorn000647;408x544
+vPorn000881;388x582
+vNonPorn000724;480x640
+vPorn000418;480x480
+vNonPorn000194;214x320
+vNonPorn000627;480x640
+vNonPorn000375;360x450
+vNonPorn000242;240x320
+vNonPorn000364;240x320
+vPorn000114;390x520
+vPorn000759;406x542
+vPorn000065;360x540
+vPorn000242;336x584
+vPorn000706;364x646
+vPorn000068;390x520
+vPorn000616;408x544
+vNonPorn000048;132x176
+vNonPorn000284;240x320
+vPorn000142;240x352
+vPorn000411;480x480
+vPorn000979;408x544
+vNonPorn000541;360x640
+vNonPorn000927;720x1280
+vPorn000766;388x582
+vNonPorn000403;480x480
+vPorn000569;364x646
+vNonPorn000034;480x640
+vPorn000714;408x544
+vNonPorn000672;800x1920
+vNonPorn000121;240x320
+vNonPorn000500;720x1280
+vNonPorn000501;720x1280
+vNonPorn000329;240x320
+vNonPorn000603;432x640
+vPorn000821;408x544
+vPorn000371;480x720
+vNonPorn000210;226x400
+vNonPorn000249;240x320
+vNonPorn000661;360x480
+vPorn000539;408x544
+vNonPorn000845;360x640
+vPorn000440;480x480
+vPorn000843;408x544
+vPorn000883;364x646
+vPorn000167;288x352
+vNonPorn000877;720x1280
+vPorn000552;364x646
+vNonPorn000523;360x640
+vNonPorn000658;720x1280
+vPorn000282;390x520
+vPorn000763;408x544
+vNonPorn000504;720x1280
+vPorn000201;390x520
+vPorn000524;408x544
+vNonPorn000807;720x1280
+vNonPorn000232;240x320
+vNonPorn000539;360x640
+vPorn000324;390x520
+vPorn000562;406x542
+vNonPorn000022;240x300
+vNonPorn000408;480x480
+vNonPorn000677;720x1280
+vPorn000693;408x544
+vPorn000222;390x520
+vPorn000219;390x520
+vNonPorn000963;720x1280
+vNonPorn000052;240x320
+vPorn000606;408x544
+vPorn000349;480x640
+vPorn000626;364x646
+vNonPorn000508;480x480
+vPorn000640;386x586
+vPorn000199;390x520
+vNonPorn000127;240x320
+vPorn000799;364x646
+vPorn000840;408x544
+vPorn000156;390x520
+vPorn000062;390x520
+vNonPorn000826;720x1280
+vNonPorn000714;720x1280
+vNonPorn000155;214x320
+vPorn000756;408x544
+vNonPorn000474;720x1280
+vPorn000953;408x544
+vNonPorn000536;544x1280
+vPorn000262;448x584
+vPorn000275;448x584
+vNonPorn000712;288x352
+vPorn000405;480x480
+vNonPorn000762;720x1280
+vPorn000994;364x646
+vPorn000487;406x542
+vPorn000295;336x584
+vNonPorn000436;480x480
+vNonPorn000353;360x480
+vPorn000160;480x640
+vPorn000057;240x320
+vNonPorn000469;480x480
+vNonPorn000811;360x640
+vPorn000680;406x542
+vNonPorn000922;720x1280
+vPorn000867;364x646
+vNonPorn000478;720x1280
+vPorn000819;408x544
+vPorn000995;364x646
+vPorn000010;240x320
+vNonPorn000840;480x640
+vNonPorn000747;720x1280
+vNonPorn000286;240x320
+vPorn000051;390x520
+vNonPorn000919;720x1280
+vPorn000214;390x520
+vNonPorn000900;720x1280
+vPorn000302;336x584
+vPorn000328;390x520
+vNonPorn000997;720x1280
+vNonPorn000229;240x300
+vNonPorn000226;240x320
+vPorn000218;390x520
+vPorn000541;364x646
+vPorn000932;364x646
+vPorn000732;406x542
+vNonPorn000354;360x480
+vNonPorn000213;226x400
+vPorn000751;408x544
+vPorn000076;390x520
+vPorn000741;408x544
+vNonPorn000860;720x1280
+vPorn000929;408x544
+vNonPorn000102;214x320
+vNonPorn000556;240x320
+vPorn000931;364x646
+vNonPorn000613;360x640
+vPorn000636;364x646
+vNonPorn000625;720x1280
+vPorn000303;390x520
+vNonPorn000633;720x1280
+vPorn000996;408x544
+vNonPorn000746;720x1280
+vNonPorn000945;240x320
+vNonPorn000624;480x480
+vNonPorn000723;480x640
+vNonPorn000590;480x480
+vNonPorn000313;360x480
+vPorn000617;364x646
+vNonPorn000342;288x352
+vPorn000369;480x720
+vNonPorn000853;368x640
+vNonPorn000454;240x320
+vPorn000746;366x642
+vNonPorn000085;226x400
+vPorn000574;364x646
+vPorn000567;240x304
+vNonPorn000828;720x1280
+vNonPorn000350;360x480
+vNonPorn000135;480x640
+vPorn000624;408x544
+vPorn000486;406x542
+vPorn000946;408x544
+vPorn000737;406x542
+vPorn000749;366x642
+vNonPorn000105;240x320
+vPorn000154;304x544
+vPorn000578;364x646
+vPorn000777;406x542
+vPorn000673;364x646
+vPorn000765;364x646
+vPorn000670;388x582
+vPorn000934;364x646
+vNonPorn000732;240x320
+vPorn000813;364x646
+vPorn000745;364x646
+vNonPorn000955;720x1280
+vPorn000070;360x480
+vNonPorn000577;360x640
+vPorn000304;448x584
+vPorn000327;448x584
+vPorn000652;406x542
+vNonPorn000953;720x1280
+vNonPorn000734;480x640
+vNonPorn000509;480x480
+vNonPorn000430;480x480
+vNonPorn000761;720x1280
+vPorn000572;364x646
+vNonPorn000019;240x320
+vPorn000359;480x640
+vPorn000829;364x646
+vNonPorn000691;360x480
+vPorn000278;336x584
+vPorn000305;240x320
+vNonPorn000437;480x480
+vPorn000403;480x480
+vNonPorn000783;1080x1920
+vNonPorn000202;88x128
+vPorn000513;406x542
+vNonPorn000090;240x320
+vPorn000689;408x544
+vNonPorn000911;720x1280
+vPorn000675;408x544
+vPorn000138;390x520
+vNonPorn000883;720x1280
+vNonPorn000662;480x640
+vNonPorn000005;240x320
+vPorn000897;408x544
+vNonPorn000821;720x1280
+vPorn000767;364x646
+vPorn000024;390x520
+vNonPorn000336;240x320
+vNonPorn000412;480x480
+vNonPorn000491;464x640
+vNonPorn000728;544x1280
+vPorn000036;360x480
+vPorn000272;352x480
+vNonPorn000832;720x1280
+vPorn000648;394x566
+vNonPorn000753;480x640
+vNonPorn000385;288x384
+vPorn000099;390x520
+vNonPorn000280;360x480
+vPorn000014;240x320
+vNonPorn000381;360x480
+vNonPorn000476;240x320
+vNonPorn000547;720x1280
+vPorn000366;240x320
+vPorn000265;396x528
+vNonPorn000665;288x550
+vPorn000603;408x544
+vNonPorn000968;720x1280
+vPorn000811;408x544
+vPorn000120;348x520
+vPorn000173;360x480
+vPorn000701;364x646
+vNonPorn000652;360x640
+vPorn000723;408x544
+vPorn000381;240x576
+vNonPorn000962;720x1280
+vPorn000683;406x542
+vNonPorn000858;360x640
+vPorn000027;390x520
+vNonPorn000070;240x320
+vPorn000891;364x646
+vNonPorn000293;240x320
+vPorn000280;360x540
+vNonPorn000303;240x320
+vPorn000949;408x544
+vPorn000896;364x646
+vPorn000770;408x544
+vPorn000831;408x544
+vNonPorn000015;240x320
+vPorn000061;390x520
+vPorn000325;480x584
+vNonPorn000359;240x320
+vPorn000326;336x584
+vNonPorn000703;720x1280
+vPorn000646;408x544
+vNonPorn000097;214x320
+vPorn000152;480x720
+vNonPorn000259;240x320
+vNonPorn000265;238x320
+vPorn000775;364x646
+vNonPorn000766;360x640
+vNonPorn000717;480x640
+vPorn000739;408x544
+vNonPorn000181;240x320
+vNonPorn000136;240x320
+vPorn000951;408x544
+vNonPorn000262;180x240
+vNonPorn000483;720x1280
+vNonPorn000757;360x640
+vPorn000716;408x544
+vPorn000209;336x584
+vNonPorn000427;480x480
+vPorn000556;364x646
+vNonPorn000981;240x360
+vNonPorn000459;480x480
+vPorn000892;408x544
+vPorn000155;304x540
+vNonPorn000355;360x480
+vNonPorn000874;720x1280
+vPorn000347;384x512
+vNonPorn000024;240x320
+vPorn000662;364x644
+vNonPorn000360;240x320
+vPorn000125;480x640
+vNonPorn000456;480x480
+vPorn000740;408x544
+vNonPorn000988;360x480
+vPorn000181;360x480
+vPorn000607;408x544
+vNonPorn000990;720x1280
+vNonPorn000876;720x1280
+vNonPorn000308;240x320
+vNonPorn000844;360x534
+vPorn000277;448x584
+vNonPorn000969;360x480
+vPorn000776;406x542
+vNonPorn000673;720x1280
+vPorn000215;448x584
+vPorn000916;240x320
+vPorn000115;240x320
+vNonPorn000378;288x352
+vPorn000246;448x584
+vNonPorn000670;720x1280
+vNonPorn000143;240x320
+vPorn000550;364x646
+vPorn000940;364x646
+vNonPorn000534;360x640
+vNonPorn000763;360x640
+vPorn000786;378x604
+vNonPorn000679;480x640
+vPorn000078;288x352
+vNonPorn000464;240x320
+vPorn000412;480x480
+vPorn000733;408x544
+vNonPorn000789;720x1280
+vNonPorn000950;240x320
+vPorn000815;364x646
+vPorn000888;364x646
+vPorn000522;388x582
+vPorn000726;406x542
+vPorn000171;360x480
+vPorn000224;384x512
+vNonPorn000546;480x640
+vNonPorn000373;240x320
+vPorn000238;384x512
+vPorn000511;406x542
+vPorn000150;240x320
+vNonPorn000839;720x1280
+vNonPorn000489;720x1280
+vNonPorn000064;240x320
+vPorn000290;336x584
+vNonPorn000727;720x1280
+vPorn000355;384x512
+vPorn000887;406x542
+vPorn000479;480x480
+vNonPorn000320;360x480
+vNonPorn000310;360x480
+vPorn000885;364x646
+vPorn000291;336x584
+vPorn000903;408x544
+vPorn000461;480x480
+vNonPorn000204;240x320
+vNonPorn000773;720x1280
+vPorn000140;390x520
+vPorn000895;388x582
+vPorn000956;408x544
+vNonPorn000861;720x1280
+vPorn000557;364x646
+vPorn000627;364x644
+vPorn000165;390x520
+vNonPorn000166;232x320
+vPorn000229;448x584
+vPorn000806;364x646
+vNonPorn000967;240x320
+vNonPorn000315;240x320
+vPorn000309;438x584
+vPorn000285;448x584
+vNonPorn000139;240x320
+vPorn000311;448x584
+vPorn000789;408x544
+vNonPorn000488;720x1280
+vPorn000694;408x544
+vPorn000316;448x584
+vNonPorn000348;360x480
+vPorn000267;360x480
+vNonPorn000411;480x480
+vNonPorn000250;240x320
+vPorn000169;448x584
+vPorn000126;240x352
+vNonPorn000574;720x1280
+vNonPorn000513;480x480
+vPorn000587;364x646
+vPorn000483;408x544
+vNonPorn000180;240x320
+vNonPorn000086;180x320
+vNonPorn000055;224x400
+vPorn000810;408x544
+vNonPorn000804;1080x1920
+vNonPorn000270;240x320
+vNonPorn000126;240x294
+vPorn000104;390x520
+vPorn000188;336x584
+vNonPorn000201;240x320
+vPorn000455;480x480
+vPorn000944;388x582
+vPorn000307;352x640
+vNonPorn000145;214x320
+vPorn000341;448x584
+vNonPorn000906;720x1280
+vNonPorn000961;720x1280
+vPorn000374;240x352
+vPorn000297;336x584
+vPorn000451;480x480
+vNonPorn000494;600x1280
+vPorn000484;408x544
+vNonPorn000948;240x320
+vPorn000227;240x320
+vPorn000237;400x584
+vNonPorn000735;360x480
+vNonPorn000586;360x640
+vPorn000837;364x646
+vPorn000912;408x544
+vNonPorn000636;720x1280
+vNonPorn000004;240x320
+vNonPorn000529;360x480
+vNonPorn000786;720x1280
+vPorn000192;390x520
+vNonPorn000413;720x1280
+vNonPorn000240;240x320
+vNonPorn000357;240x320
+vPorn000935;364x646
+vPorn000318;360x540
+vPorn000354;240x320
+vPorn000409;480x480
+vNonPorn000163;162x320
+vPorn000148;390x520
+vPorn001000;408x544
+vPorn000293;336x584
+vNonPorn000638;480x640
+vNonPorn000405;480x480
+vNonPorn000777;720x1280
+vNonPorn000361;240x320
+vPorn000748;364x646
+vNonPorn000743;1080x1918
+vPorn000986;408x544
+vPorn000937;406x542
+vPorn000170;360x480
+vPorn000553;408x544
+vPorn000890;408x544
+vNonPorn000309;240x320
+vPorn000768;364x646
+vPorn000860;388x582
+vPorn000925;364x646
+vPorn000433;480x480
+vPorn000100;390x520
+vPorn000368;240x352
+vPorn000288;390x520
+vNonPorn000931;360x480
+vNonPorn000519;360x494
+vNonPorn000506;544x1280
+vNonPorn000351;240x320
+vPorn000880;720x1082
+vNonPorn000193;240x320
+vNonPorn000565;720x1280
+vPorn000560;364x646
+vNonPorn000888;720x1280
+vPorn000628;364x646
+vNonPorn000442;480x480
+vPorn000884;408x544
+vPorn000008;390x520
+vPorn000438;480x480
+vPorn000577;408x544
+vNonPorn000117;240x320
+vPorn000783;406x542
+vNonPorn000721;480x640
+vPorn000828;364x646
+vPorn000968;408x544
+vPorn000194;448x584
+vPorn000989;364x646
+vNonPorn000750;720x1280
+vPorn000682;364x644
+vNonPorn000060;180x320
+vNonPorn000552;720x1280
+vPorn000686;364x646
+vNonPorn000790;216x512
+vNonPorn000965;720x1280
+vPorn000705;364x646
+vNonPorn000138;240x320
+vNonPorn000995;720x1280
+vNonPorn000100;240x320
+vPorn000660;364x646
+vPorn000313;360x480
+vNonPorn000774;640x1280
+vNonPorn000255;240x320
+vPorn000320;390x520
+vNonPorn000206;360x480
+vNonPorn000225;240x320
+vNonPorn000089;240x320
+vNonPorn000129;214x320
+vNonPorn000958;240x320
+vPorn000573;408x544
+vPorn000084;390x520
+vPorn000634;408x544
+vPorn000527;408x544
+vPorn000287;390x520
+vPorn000015;240x352
+vPorn000182;448x584
+vPorn000818;408x544
+vNonPorn000277;240x320
+vNonPorn000865;720x1280
+vPorn000966;404x546
+vPorn000879;364x646
+vPorn000930;480x852
+vPorn000959;364x646
+vPorn000086;390x520
+vPorn000543;364x646
+vNonPorn000356;240x320
+vPorn000130;438x584
+vPorn000576;404x546
+vNonPorn000568;720x1280
+vPorn000913;408x544
+vNonPorn000214;224x400
+vNonPorn000933;360x640
+vPorn000089;240x320
+vNonPorn000690;720x1280
+vPorn000839;364x646
+vNonPorn000424;480x480
+vPorn000294;336x584
+vNonPorn000599;720x1280
+vPorn000802;388x582
+vNonPorn000480;1080x1920
+vPorn000792;364x646
+vPorn000798;408x544
+vPorn000566;388x582
+vNonPorn000771;360x640
+vNonPorn000802;720x1280
+vNonPorn000563;240x320
+vNonPorn000191;240x320
+vNonPorn000560;480x480
+vNonPorn000606;720x1280
+vPorn000697;364x646
+vNonPorn000946;240x320
+vPorn000580;408x544
+vNonPorn000185;426x640
+vNonPorn000450;480x480
+vPorn000611;480x864
+vNonPorn000966;360x480
+vNonPorn000219;226x400
+vPorn000017;390x520
+vNonPorn000920;720x1280
+vPorn000393;240x352
+vNonPorn000570;720x1280
+vPorn000364;240x320
+vPorn000373;480x640
+vNonPorn000580;1080x1920
+vNonPorn000582;360x640
+vPorn000794;408x544
+vPorn000565;408x544
+vPorn000020;576x720
+vNonPorn000567;720x960
+vNonPorn000640;360x486
+vPorn000317;390x520
+vNonPorn000066;240x320
+vNonPorn000930;360x640
+vNonPorn000516;720x1280
+vNonPorn000106;240x320
+vPorn000400;480x640
+vPorn000855;364x646
+vNonPorn000610;480x480
+vNonPorn000042;240x320
+vNonPorn000827;720x1280
+vNonPorn000722;480x640
+vNonPorn000397;240x320
+vPorn000709;364x646
+vPorn000377;240x320
+vPorn000284;448x584
+vPorn000985;364x646
+vPorn000450;480x480
+vPorn000339;448x584
+vNonPorn000569;720x1280
+vPorn000362;480x640
+vNonPorn000818;720x1280
+vPorn000581;364x646
+vNonPorn000020;240x320
+vNonPorn000685;720x1280
+vPorn000419;480x480
+vNonPorn000406;720x1280
+vNonPorn000028;214x320
+vNonPorn000184;240x320
+vNonPorn000306;320x480
+vNonPorn000012;238x320
+vPorn000598;364x646
+vPorn000363;240x320
+vPorn000343;304x400
+vNonPorn000009;240x320
+vPorn000491;364x646
+vNonPorn000161;132x176
+vPorn000720;408x544
+vNonPorn000190;214x320
+vNonPorn000283;240x320
+vNonPorn000784;720x1280
+vPorn000350;240x320
+vNonPorn000137;240x294
+vNonPorn000739;720x1280
+vNonPorn000880;720x1280
+vNonPorn000751;720x1280
+vNonPorn000695;360x480
+vPorn000207;390x520
+vPorn000129;390x520
+vPorn000871;408x544
+vPorn000773;364x644
+vPorn000854;364x646
+vNonPorn000495;480x640
+vNonPorn000748;720x1280
+vNonPorn000266;240x320
+vNonPorn000332;144x192
+vPorn000506;364x646
+vPorn000391;240x320
+vNonPorn000887;240x320
+vNonPorn000026;240x320
+vPorn000081;390x520
+vNonPorn000984;720x1280
+vPorn000375;240x320
+vPorn000465;480x480
+vPorn000812;364x646
+vNonPorn000851;360x640
+vPorn000631;408x544
+vNonPorn000891;720x1280
+vPorn000893;366x636
+vNonPorn000176;240x320
+vNonPorn000147;240x320
+vNonPorn000566;360x640
+vNonPorn000482;720x1280
+vPorn000938;240x304
+vNonPorn000321;240x320
+vPorn000445;480x480
+vNonPorn000054;180x320
+vNonPorn000498;720x1280
+vPorn000083;390x520
+vPorn000809;364x646
+vPorn000961;364x646
+vPorn000110;480x640
+vNonPorn000607;720x1280
+vPorn000255;336x584
+vPorn000525;364x646
+vNonPorn000132;180x320
+vNonPorn000620;480x480
+vNonPorn000544;720x1280
+vNonPorn000540;240x320
+vPorn000425;480x480
+vPorn000661;364x646
+vPorn000545;364x646
+vNonPorn000879;720x1280
+vNonPorn000307;240x320
+vNonPorn000597;720x1280
+vPorn000771;364x646
+vNonPorn000349;360x480
+vNonPorn000903;288x352
+vPorn000177;336x584
+vNonPorn000521;360x480
+vNonPorn000479;720x1280
+vNonPorn000493;240x360
+vNonPorn000803;1080x1920
+vPorn000655;364x646
+vPorn000334;336x584
+vNonPorn000952;240x320
+vNonPorn000076;240x320
+vNonPorn000475;720x1280
+vPorn000533;364x646
+vPorn000198;448x584
+vPorn000870;364x646
+vPorn000588;364x646
+vNonPorn000148;214x320
+vNonPorn000347;360x480
+vNonPorn000542;360x640
+vPorn000243;390x520
+vPorn000095;360x480
+vPorn000531;364x646
+vNonPorn000113;240x320
+vPorn000063;390x520
+vPorn000984;406x542
+vPorn000456;480x480
+vNonPorn000656;360x480
+vPorn000145;240x320
+vPorn000441;480x480
+vPorn000991;408x544
+vNonPorn000889;544x1280
+vPorn000424;480x480
+vNonPorn000666;720x1280
+vPorn000939;364x646
+vPorn000589;364x646
+vNonPorn000468;480x480
+vPorn000264;336x584
+vPorn000595;408x544
+vNonPorn000699;360x640
+vNonPorn000873;720x1280
+vNonPorn000116;222x400
+vPorn000151;390x520
+vNonPorn000646;360x480
+vNonPorn000038;214x320
+vNonPorn000025;214x320
+vNonPorn000686;1080x1920
+vNonPorn000614;480x640
+vPorn000426;480x480
+vPorn000622;408x544
+vPorn000962;408x544
+vPorn000909;364x644
+vPorn000902;364x646
+vNonPorn000389;240x320
+vNonPorn000003;240x320
+vPorn000196;328x584
+vPorn000421;480x480
+vPorn000346;480x640
+vPorn000459;480x480
+vNonPorn000859;240x320
+vPorn000654;364x646
+vPorn000001;390x520
+vPorn000176;448x584
+vNonPorn000767;360x640
+vNonPorn000330;360x480
+vPorn000982;364x646
+vNonPorn000108;214x320
+vNonPorn000276;240x320
+vPorn000060;240x320
+vPorn000212;390x520
+vNonPorn000618;720x1280
+vPorn000286;336x584
+vNonPorn000882;720x1280
+vPorn000071;360x480
+vNonPorn000711;720x1280
+vPorn000586;388x582
+vPorn000420;480x480
+vPorn000677;404x550
+vNonPorn000278;144x192
+vPorn000263;390x520
+vNonPorn000765;720x1280
+vNonPorn000319;240x320
+vNonPorn000189;360x480
+vNonPorn000559;480x480
+vPorn000692;364x646
+vPorn000781;364x646
+vNonPorn000072;234x320
+vNonPorn000447;480x480
+vNonPorn000257;240x320
+vPorn000865;364x646
+vNonPorn000989;808x1920
+vNonPorn000420;480x480
+vPorn000729;408x544
+vPorn000437;480x480
+vPorn000300;390x520
+vPorn000824;408x544
+vNonPorn000834;352x640
+vPorn000003;390x520
+vNonPorn000224;240x320
+vNonPorn000260;240x320
+vPorn000523;382x594
+vPorn000033;360x480
+vNonPorn000992;720x1280
+vNonPorn000993;1080x1920
+vPorn000410;480x480
+vPorn000836;364x646
+vPorn000123;240x320
+vNonPorn000366;360x480
+vNonPorn000008;240x320
+vPorn000044;390x520
+vPorn000583;364x646
+vNonPorn000272;240x320
+vPorn000594;364x646
+vPorn000072;390x520
+vPorn000721;408x544
+vPorn000679;406x542
+vPorn000365;256x352
+vNonPorn000951;240x320
+vNonPorn000671;720x1280
+vNonPorn000049;240x320
+vPorn000056;360x480
+vNonPorn000740;360x640
+vPorn000248;390x520
+vPorn000817;402x550
+vPorn000180;390x520
+vNonPorn000535;360x640
+vNonPorn000602;720x1280
+vNonPorn000609;480x480
+vPorn000734;408x544
+vNonPorn000340;360x480
+vNonPorn000499;720x1280
+vNonPorn000112;240x320
+vPorn000402;480x480
+vNonPorn000122;214x320
+vPorn000555;364x646
+vNonPorn000168;234x320
+vPorn000480;364x646
+vPorn000230;336x584
+vNonPorn000416;720x1280
+vPorn000667;364x646
+vNonPorn000628;800x1280
+vNonPorn000905;720x960
+vNonPorn000706;720x1280
+vPorn000436;480x480
+vNonPorn000849;360x480
+vNonPorn000237;240x320
+vPorn000045;390x520
+vNonPorn000935;240x320
+vPorn000049;390x520
+vNonPorn000376;240x320
+vNonPorn000434;480x480
+vPorn000528;408x544
+vPorn000584;406x542
+vPorn000882;406x542
+vPorn000808;408x544
+vPorn000449;480x480
+vNonPorn000705;720x1280
+vPorn000758;388x582
+vNonPorn000719;480x640
+vNonPorn000441;480x480
+vPorn000796;364x644
+vNonPorn000526;360x480
+vPorn000967;364x646
+vPorn000846;364x646
+vNonPorn000448;480x480
+vPorn000012;360x480
+vNonPorn000884;720x1280
+vNonPorn000063;240x320
+vNonPorn000914;720x1280
+vPorn000470;480x480
+vPorn000722;408x544
+vNonPorn000209;144x192
+vPorn000983;406x542
+vPorn000707;408x544
+vPorn000468;480x480
+vNonPorn000092;214x320
+vPorn000029;360x480
+vNonPorn000829;1080x1920
+vNonPorn000870;720x1280
+vNonPorn000745;720x1280
+vNonPorn000326;240x320
+vPorn000820;364x646
+vNonPorn000868;240x360
+vNonPorn000013;240x320
+vNonPorn000579;360x640
+vNonPorn000458;480x480
+vPorn000621;364x646
+vPorn000370;480x720
+vNonPorn000794;360x640
+vNonPorn000016;180x320
+vNonPorn000595;360x480
+vPorn000357;480x640
+vNonPorn000410;480x480
+vNonPorn000409;480x480
+vPorn000082;300x520
+vNonPorn001000;720x1280
+vPorn000046;390x520
+vNonPorn000644;720x1280
+vNonPorn000842;358x640
+vPorn000035;390x520
+vNonPorn000979;240x360
+vPorn000841;364x646
+vPorn000396;480x640
+vPorn000753;364x646
+vPorn000187;448x584
+vNonPorn000001;240x300
+vPorn000406;480x480
+vPorn000710;364x646
+vNonPorn000688;360x640
+vNonPorn000220;218x320
+vNonPorn000975;360x640
+vPorn000630;408x544
+vNonPorn000575;720x1280
+vNonPorn000167;240x320
+vNonPorn000398;288x352
+vPorn000886;364x646
+vPorn000040;438x584
+vPorn000874;364x646
+vPorn000013;348x520
+vNonPorn000545;360x480
+vPorn000310;336x584
+vPorn000037;240x320
+vPorn000863;364x646
+vNonPorn000142;240x320
+vNonPorn000401;480x480
+vNonPorn000150;240x320
+vPorn000585;364x646
+vNonPorn000589;480x480
+vNonPorn000937;720x1280
+vPorn000534;364x646
+vNonPorn000713;1080x1920
+vPorn000038;480x640
+vPorn000244;448x584
+vPorn000361;240x320
+vPorn000239;480x584
+vPorn000059;390x520
+vNonPorn000324;360x480
+vPorn000747;364x646
+vPorn000482;364x646
+vNonPorn000850;360x640
+vPorn000189;336x584
+vNonPorn000907;720x1280
+vNonPorn000659;360x640
+vNonPorn000977;240x320
+vPorn000026;240x352
+vPorn000096;438x584
+vPorn000398;240x320
+vNonPorn000345;270x480
+vNonPorn000188;214x320
+vPorn000387;480x720
+vNonPorn000196;360x480
+vNonPorn000234;240x320
+vPorn000122;240x320
+vNonPorn000572;720x1280
+vPorn000137;390x520
+vNonPorn000647;360x640
+vNonPorn000785;720x1280
+vNonPorn000871;720x1280
+vNonPorn000415;720x1280
+vNonPorn000622;480x480
+vNonPorn000557;720x1280
+vPorn000257;336x584
+vNonPorn000619;720x1280
+vPorn000788;406x544
+vNonPorn000030;240x320
+vPorn000031;360x480
+vNonPorn000261;214x320
+vPorn000252;336x584
+vPorn000098;390x520
+vNonPorn000971;240x320
+vNonPorn000641;240x320
+vNonPorn000362;240x320
+vNonPorn000929;720x1280
+vPorn000715;408x544
+vPorn000782;408x544
+vPorn000914;408x544
+vNonPorn000123;240x320
+vNonPorn000585;360x480
+vNonPorn000221;240x320
+vNonPorn000037;178x320
+vNonPorn000655;720x1280
+vNonPorn000107;224x400
+vPorn000975;408x544
+vPorn000849;408x544
+vPorn000981;364x646
+vNonPorn000678;480x640
+vPorn000952;364x646
+vPorn000205;448x584
+vNonPorn000159;240x320
+vPorn000998;408x544
+vPorn000383;240x320
+vNonPorn000200;240x320
+vNonPorn000217;180x320
+vNonPorn000696;360x540
+vNonPorn000341;240x320
+vPorn000791;408x544
+vPorn000687;408x544
+vPorn000658;364x646
+vPorn000073;348x520
+vPorn000041;360x480
+vNonPorn000047;240x320
+vNonPorn000470;480x480
+vNonPorn000182;240x320
+vNonPorn000096;240x320
+vPorn000306;448x584
+vNonPorn000370;360x480
+vPorn000532;364x646
+vPorn000561;364x646
+vPorn000750;408x544
+vNonPorn000323;240x320
+vNonPorn000758;336x600
+vPorn000184;336x584
+vPorn000559;408x544
+vPorn000442;480x480
+vPorn000011;390x520
+vPorn000494;364x646
+vNonPorn000151;240x294
+vPorn000021;390x520
+vPorn000390;240x320
+vPorn000590;408x544
+vPorn000926;408x544
+vPorn000321;390x520
+vNonPorn000548;720x1280
+vNonPorn000693;360x640
+vNonPorn000056;240x320
+vPorn000992;364x646
+vPorn000848;364x646
+vPorn000671;408x544
+vPorn000048;400x512
+vNonPorn000550;288x352
+vNonPorn000141;226x400
+vNonPorn000325;240x320
+vNonPorn000899;448x640
+vPorn000202;448x584
+vNonPorn000018;226x400
+vNonPorn000792;720x1280
+vPorn000085;360x480
+vNonPorn000718;480x640
+vPorn000872;364x646
+vNonPorn000314;360x450
+vNonPorn000429;480x480
+vPorn000520;364x646
+vPorn000997;364x646
+vPorn000738;280x374
+vNonPorn000863;720x1280
+vNonPorn000439;720x1280
+vPorn000342;288x352
+vNonPorn000517;360x640
+vPorn000866;364x646
+vNonPorn000152;144x192
+vPorn000690;408x544
+vPorn000050;390x520
+vNonPorn000235;240x320
+vPorn000213;390x520
+vNonPorn000730;240x320
+vPorn000435;480x480
+vNonPorn000901;720x1280
+vPorn000612;364x646
+vPorn000826;408x544
+vPorn000340;448x584
+vNonPorn000269;112x160
+vPorn000859;364x646
+vNonPorn000814;720x1280
+vNonPorn000837;360x640
+vNonPorn000770;720x1280
+vNonPorn000904;720x1280
+vNonPorn000596;360x480
+vNonPorn000680;424x640
+vPorn000258;438x584
+vPorn000231;448x584
+vPorn000973;364x646
+vNonPorn000254;180x320
+vPorn000656;364x646
+vNonPorn000816;720x1280
+vNonPorn000068;240x320
+vNonPorn000174;240x320
+vNonPorn000452;480x480
+vNonPorn000222;240x320
+vPorn000605;406x542
+vNonPorn000299;240x320
+vNonPorn000177;240x318
+vPorn000651;240x320
+vPorn000727;364x646
+vNonPorn000970;720x1280
+vPorn000964;364x646
+vNonPorn000110;240x320
+vPorn000444;480x480
+vPorn000274;448x584
+vPorn000822;364x646
+vNonPorn000462;240x320
+vPorn000055;384x512
+vNonPorn000358;132x176
+vPorn000254;384x512
+vNonPorn000885;720x1280
+vNonPorn000035;240x320
+vNonPorn000918;720x1280
+vPorn000650;364x646
+vPorn000993;408x544
+vPorn000862;406x542
+vNonPorn000449;480x480
+vNonPorn000797;320x480
+vPorn000166;390x520
+vPorn000112;240x320
+vPorn000604;364x646
+vNonPorn000869;720x1280
+vNonPorn000941;360x480
+vPorn000301;390x520
+vPorn000353;240x320
+vPorn000407;480x480
+vNonPorn000669;360x640
+vPorn000203;448x584
+vNonPorn000812;720x1280
+vNonPorn000637;720x1280
+vNonPorn000422;480x480
+vPorn000225;360x480
+vPorn000163;438x584
+vPorn000235;448x584
+vNonPorn000414;720x1280
+vPorn000217;390x520
+vPorn000389;304x416
+vNonPorn000073;240x320
+vPorn000941;408x544
+vPorn000814;364x646
+vNonPorn000531;360x640
+vPorn000980;480x852
+vNonPorn000798;720x1280
+vNonPorn000289;238x320
+vNonPorn000490;720x1280
+vPorn000801;408x544
+vNonPorn000780;424x640
+vNonPorn000768;720x1280
+vPorn000079;396x528
+vPorn000067;438x584
+vPorn000372;512x640
+vNonPorn000380;240x320
+vPorn000108;390x520
+vNonPorn000282;240x320
+vNonPorn000460;480x480
+vNonPorn000074;240x320
+vPorn000462;480x480
+vNonPorn000158;240x300
+vPorn000927;364x646
+vNonPorn000492;360x640
+vPorn000787;364x646
+vPorn000270;448x584
+vPorn000376;240x320
+vPorn000009;390x520
+vPorn000779;364x646
+vPorn000299;390x520
+vPorn000900;480x864
+vPorn000635;408x544
+vNonPorn000421;480x480
+vPorn000971;364x646
+vNonPorn000438;480x480
+vNonPorn000157;226x400
+vNonPorn000898;240x320
+vPorn000266;390x520
+vNonPorn000400;184x320
+vNonPorn000079;214x320
+vNonPorn000186;214x320
+vPorn000178;360x480
+vPorn000708;364x646
+vPorn000493;364x646
+vNonPorn000667;360x640
+vPorn000490;364x646
+vNonPorn000894;720x1280
+vNonPorn000300;240x320
+vPorn000645;364x646
+vPorn000873;364x646
+vNonPorn000075;240x320
+vNonPorn000954;720x1280
+vNonPorn000726;480x640
+vNonPorn000943;240x320
+vPorn000551;364x646
+vPorn000333;448x584
+vPorn000728;364x646
+vNonPorn000368;360x480
+vNonPorn000621;480x480
+vPorn000481;364x646
+vNonPorn000836;240x360
+vNonPorn000432;480x480
+vPorn000472;480x480
+vPorn000179;390x520
+vNonPorn000445;480x480
+vPorn000978;364x646
+vNonPorn000503;720x1280
+vNonPorn000241;240x320
+vNonPorn000764;720x1280
+vPorn000990;408x544
+vPorn000536;364x646
+vPorn000731;364x646
+vPorn000030;390x520
+vPorn000322;336x584
+vPorn000249;336x584
+vNonPorn000912;720x1280
+vPorn000875;364x646
+vPorn000314;448x584
+vNonPorn000528;360x640
+vNonPorn000267;240x320
+vPorn000025;360x640
+vPorn000261;390x520
+vNonPorn000371;360x480
+vPorn000591;364x646
+vNonPorn000947;240x320
+vPorn000211;438x584
+vNonPorn000481;1012x1918
+vNonPorn000806;720x1280
+vPorn000434;480x480
+vPorn000547;364x646
+vPorn000088;390x520
+vNonPorn000187;240x320
+vNonPorn000592;480x480
+vNonPorn000985;720x1280
+vPorn000538;364x646
+vNonPorn000279;240x320
+vPorn000174;432x584
+vNonPorn000648;360x640
+vPorn000105;438x584
+vPorn000629;408x544
+vPorn000521;408x544
+vNonPorn000725;480x640
+vPorn000240;400x584
+vPorn000599;408x544
+vPorn000331;360x480
+vNonPorn000485;720x1280
+vNonPorn000149;240x320
+vPorn000260;448x584
+vNonPorn000091;240x320
+vPorn000414;480x480
+vPorn000503;364x646
+vNonPorn000704;720x1280
+vNonPorn000379;240x320
+vPorn000950;364x646
+vPorn000146;390x520
+vPorn000195;336x584
+vNonPorn000522;360x506
+vNonPorn000801;360x640
+vPorn000549;408x544
+vPorn000356;480x720
+vNonPorn000453;480x480
+vNonPorn000616;360x640
+vNonPorn000466;240x320
+vPorn000571;364x646
+vNonPorn000630;720x1280
+vNonPorn000537;336x600
+vPorn000518;364x646
+vPorn000336;448x584
+vPorn000691;408x544
+vNonPorn000094;218x320
+vPorn000712;406x542
+vNonPorn000756;360x640
+vPorn000466;480x480
+vNonPorn000423;480x480
+vPorn000987;364x646
+vNonPorn000386;360x480
+vNonPorn000285;240x320
+vPorn000764;408x544
+vNonPorn000502;720x1280
+vNonPorn000029;240x320
+vNonPorn000736;240x320
+vNonPorn000857;360x480
+vPorn000495;388x582
+vPorn000443;480x480
+vNonPorn000183;132x176
+vNonPorn000886;360x480
+vNonPorn000708;720x1280
+vNonPorn000140;240x320
+vNonPorn000169;96x140
+vPorn000102;360x480
+vNonPorn000584;360x480
+vPorn000111;480x720
+vPorn000093;256x352
+vNonPorn000645;360x640
+vNonPorn000111;240x294
+vPorn000006;390x520
+vPorn000719;408x544
+vPorn000007;390x520
+vPorn000066;470x540
+vPorn000807;408x544
+vPorn000643;364x646
+vPorn000087;390x520
+vNonPorn000369;240x320
+vPorn000232;336x584
+vNonPorn000264;240x320
+vPorn000869;408x544
+vPorn000596;388x582
+vNonPorn000809;240x416
+vPorn000613;408x544
+vNonPorn000543;360x640
+vNonPorn000855;1080x1920
+vPorn000868;364x646
+vNonPorn000983;360x640
+vNonPorn000212;240x320
+vPorn000408;480x480
+vPorn000505;240x400
+vPorn000678;364x646
+vNonPorn000825;720x1280
+vPorn000844;364x646
+vPorn000191;336x584
+vPorn000743;364x646
+vNonPorn000515;720x1280
+vPorn000329;448x584
+vNonPorn000791;720x1280
+vPorn000861;364x646
+vNonPorn000067;240x320
+vPorn000904;364x646
+vPorn000564;364x646
+vPorn000172;240x320
+vNonPorn000461;480x480
+vPorn000236;448x584
+vNonPorn000247;240x320
+vPorn000439;480x480
+vNonPorn000392;360x480
+vPorn000018;390x520
+vPorn000724;364x646
+vPorn000856;364x646
+vNonPorn000211;240x320
+vPorn000028;240x320
+vPorn000401;480x480
+vPorn000516;364x646
+vNonPorn000433;480x480
+vPorn000833;364x646
+vPorn000664;408x544
+vNonPorn000165;180x320
+vPorn000473;480x480
+vNonPorn000702;720x1280
+vNonPorn000631;240x320
+vNonPorn000021;180x320
+vPorn000685;364x646
+vNonPorn000944;240x320
+vNonPorn000598;720x1280
+vPorn000276;448x584
+vPorn000498;406x542
+vNonPorn000754;720x1280
+vNonPorn000426;480x480
+vPorn000713;408x544
+vPorn000253;336x584
+vNonPorn000363;144x192
+vPorn000127;360x540
+vNonPorn000957;240x320
+vNonPorn000487;720x1280
+vNonPorn000866;720x1280
+vNonPorn000393;360x480
+vNonPorn000312;240x320
+vNonPorn000251;240x320
+vPorn000924;364x646
+vNonPorn000399;360x480
+vPorn000448;480x480
+vNonPorn000407;720x1280
+vNonPorn000333;360x480
+vPorn000827;408x544
+vPorn000149;360x540
+vPorn000489;408x544
+vPorn000345;540x720
+vNonPorn000295;240x320
+vPorn000657;364x644
+vNonPorn000133;240x320
+vPorn000379;240x320
+vPorn000016;360x540
+vNonPorn000854;720x1280
+vNonPorn000913;720x1280
+vPorn000947;364x646
+vPorn000226;336x584
+vNonPorn000999;720x1280
+vPorn000804;408x544
+vPorn000936;408x544
+vNonPorn000082;240x320
+vNonPorn000164;226x400
+vPorn000348;480x720
+vPorn000957;364x646
+vPorn000283;390x520
+vPorn000432;480x480
+vPorn000097;390x520
+vPorn000221;448x584
+vNonPorn000772;720x1280
+vNonPorn000694;360x640
+vPorn000034;240x320
+vNonPorn000291;360x480
+vPorn000642;408x544
+vNonPorn000118;240x320
+vPorn000609;364x646
+vPorn000769;406x542
+vPorn000744;364x646
+vNonPorn000939;360x480
+vNonPorn000998;360x476
+vPorn000352;272x352
+vPorn000696;364x646
+vPorn000464;480x480
+vPorn000969;364x646
+vPorn000488;408x544
+vPorn000921;364x646
+vPorn000852;408x544
+vNonPorn000170;240x320
+vPorn000943;364x646
+vNonPorn000425;480x480
+vPorn000632;364x646
+vNonPorn000006;208x368
+vPorn000832;364x646
+vNonPorn000322;240x320
+vNonPorn000720;480x640
+vNonPorn000245;132x176
+vNonPorn000292;360x480
+vNonPorn000617;720x1280
+vNonPorn000271;240x320
+vNonPorn000115;240x294
+vPorn000121;384x512
+vNonPorn000833;532x1280
+vPorn000502;388x582
+vPorn000147;240x320
+vPorn000878;364x646
+vPorn000774;364x646
+vPorn000478;480x480
+vPorn000454;480x480
+vPorn000945;408x544
+vPorn000460;480x480
+vPorn000384;240x320
+vPorn000625;408x544
+vNonPorn000125;240x294
+vPorn000475;480x480
+vNonPorn000974;720x1280
+vPorn000394;480x640
+vPorn000960;364x646
+vNonPorn000095;240x320
+vNonPorn000352;270x480
+vPorn000367;576x720
+vPorn000963;364x646
+vNonPorn000830;480x640
+vNonPorn000687;720x1280
+vPorn000416;480x480
+vPorn000023;390x520
+vNonPorn000384;240x320
+vNonPorn000787;720x1280
+vNonPorn000059;240x320
+vNonPorn000710;360x640
+vNonPorn000335;240x320
+vNonPorn000477;720x1280
+vPorn000519;364x646
+vPorn000544;408x544
+vPorn000542;366x636
+vPorn000515;364x646
+vNonPorn000893;720x1280
+vNonPorn000843;360x640
+vPorn000958;406x542
+vPorn000676;408x544
+vPorn000463;480x480
+vPorn000920;408x544
+vNonPorn000514;360x640
+vPorn000308;240x320
+vPorn000220;336x584
+vNonPorn000924;720x1280
+vPorn000139;438x584
+vPorn000250;336x584
+vNonPorn000087;240x320
+vNonPorn000923;720x1280
+vNonPorn000848;320x568
+vPorn000496;408x544
+vPorn000116;240x320
+vNonPorn000337;240x320
+vNonPorn000564;720x1280
+vPorn000492;408x544
+vNonPorn000443;480x480
+vPorn000269;360x480
+vNonPorn000023;214x320
+vNonPorn000587;360x470
+vNonPorn000036;214x320
+vNonPorn000663;360x640
+vNonPorn000311;360x480
+vNonPorn000689;720x1280
+vPorn000404;480x480
+vPorn000216;400x584
+vNonPorn000991;720x1280
+vNonPorn000131;240x320
+vNonPorn000612;360x640
+vNonPorn000604;720x1280
+vNonPorn000017;240x320
+vNonPorn000435;480x480
+vNonPorn000099;240x320
+vNonPorn000554;720x1280
+vNonPorn000268;224x400
+vPorn000972;364x646
+vNonPorn000305;360x480
+vPorn000157;480x640
+vNonPorn000681;720x1280
+vPorn000509;406x542
+vNonPorn000982;720x1280
+vPorn000911;408x544
+vPorn000558;408x544
+vNonPorn000769;720x1280
+vPorn000514;408x544
+vNonPorn000862;352x640
+vNonPorn000738;240x320
+vPorn000684;364x646
+vNonPorn000895;720x1280
+vPorn000864;364x646
+vPorn000681;406x542
+vPorn000298;336x584
+vNonPorn000077;226x400
+vPorn000857;480x624
+vNonPorn000800;720x1280
+vNonPorn000053;214x320
+vNonPorn000910;720x1280
+vPorn000245;390x520
+vNonPorn000581;360x640
+vNonPorn000917;544x1280
+vNonPorn000629;480x640
+vPorn000877;408x544
+vPorn000725;364x646
+vPorn000101;240x320
+vPorn000742;364x646
+vPorn000760;480x672
+vPorn000159;390x520
+vPorn000665;408x544
+vNonPorn000578;720x1280
+vPorn000663;364x646
+vNonPorn000583;360x640
+vPorn000208;390x520
+vPorn000077;390x520
+vPorn000382;480x720
+vNonPorn000936;720x1280
+vNonPorn000215;240x320
+vPorn000805;408x544
+vNonPorn000230;180x320
+vPorn000730;364x646
+vPorn000835;364x646
+vNonPorn000387;240x320
+vNonPorn000507;480x480
+vPorn000052;390x520
+vPorn000497;388x582
+vNonPorn000367;360x480
+vNonPorn000101;240x320
+vPorn000162;438x584
+vNonPorn000573;544x1280
+vNonPorn000781;720x1280
+vPorn000641;408x544
+vPorn000838;408x544
+vNonPorn000808;720x1280
+vNonPorn000041;240x320
+vNonPorn000683;360x640
+vNonPorn000908;720x1280
+vPorn000851;364x646
+vPorn000158;480x720
+vNonPorn000120;226x400
+vNonPorn000238;240x320
+vNonPorn000146;214x320
+vPorn000899;364x646
+vNonPorn000297;360x480
+vNonPorn000179;226x400
+vPorn000335;390x520
+vNonPorn000675;720x1280
+vPorn000614;408x544
+vPorn000200;390x520
+vPorn000190;390x520
+vNonPorn000847;360x640
+vNonPorn000050;180x320
+vPorn000512;364x646
+vPorn000894;408x544
+vPorn000977;408x544
+vPorn000388;240x352
+vPorn000711;408x544
+vPorn000858;364x646
+vNonPorn000881;1080x1920
+vNonPorn000304;144x192
+vPorn000206;448x584
+vNonPorn000795;768x1280
+vPorn000453;480x480
+vPorn000501;364x646
+vNonPorn000558;720x1280
+vPorn000273;328x584
+vNonPorn000175;240x320
+vNonPorn000692;360x640
+vNonPorn000178;162x320
+vPorn000793;408x544
+vPorn000761;364x646
+vPorn000850;408x544
+vNonPorn000657;720x1280
+vNonPorn000759;720x1280
+vNonPorn000103;240x320
+vNonPorn000243;240x320
+vPorn000022;240x320
+vNonPorn000033;240x320
+vPorn000193;390x520
+vNonPorn000007;218x320
+vPorn000330;464x584
+vPorn000323;390x520
+vPorn000075;240x320
+vPorn000910;364x646
+vNonPorn000457;480x480
+vNonPorn000014;240x320
+vNonPorn000676;240x320
+vNonPorn000382;240x320
+vNonPorn000838;720x1280
+vNonPorn000660;360x640
+vPorn000153;390x520
+vPorn000615;364x644
+vNonPorn000682;720x1280
+vPorn000845;408x544
+vPorn000633;364x646
+vPorn000080;390x520
+vNonPorn000160;214x320
+vNonPorn000039;214x320
+vPorn000474;480x480
+vNonPorn000383;120x160
+vPorn000094;240x320
+vNonPorn000065;240x320
+vPorn000546;408x544
+vNonPorn000046;240x320
+vPorn000128;240x320
+vNonPorn000823;720x1280
+vPorn000413;480x480
+vNonPorn000328;96x128
+vNonPorn000715;720x1280
+vPorn000107;480x640
+vNonPorn000043;240x320
+vPorn000247;390x520
+vNonPorn000372;352x416
+vNonPorn000011;240x320
+vNonPorn000119;226x400
+vPorn000186;336x584
+vNonPorn000419;480x480
+vNonPorn000078;240x320
+vNonPorn000218;238x320
+vNonPorn000973;720x1280
+vNonPorn000338;360x480
+vPorn000092;390x520
+vPorn000431;480x480

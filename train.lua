@@ -30,7 +30,7 @@ end
 
 trainLogger = optim.Logger(paths.concat(opt.save, 'train.log'))
 local batchNumber
-local acc, loss
+local acc, loss, bacc, true_nonporn, total_nonporn, true_porn, total_porn
 
 -- train - this function handles the high-level training loop
 function train()
@@ -59,6 +59,11 @@ function train()
     local tm = torch.Timer()
     acc = 0
     loss = 0
+    bacc = 0
+    true_nonporn = 0
+    total_nonporn = 0
+    true_porn = 0
+    total_porn = 0
     for i=1,opt.epochSize do
         -- queue jobs to data-workers
         donkeys:addjob(
@@ -77,19 +82,23 @@ function train()
 
     acc = acc * 100 / (opt.batchSize * opt.epochSize)
     loss = loss / opt.epochSize
+    bacc = ((true_nonporn / total_nonporn) + (true_porn / total_porn)) * 100 / 2
 
     trainLogger:add{
         ['epoch'] = epoch,
         ['acc']   = acc,
+        ['bacc']   = bacc,
         ['loss']  = loss,
         ['LR']    = optimState.learningRate
     }
     print(string.format('Epoch: [%d][TRAINING SUMMARY] Total Time(s): %.2f\t'
                         .. 'Loss: %.2f \t '
-                        .. 'Acc: %.2f\t\n',
-                        epoch, tm:time().real, loss, acc))
+                        .. 'Acc: %.2f \t '
+                        .. 'Bacc: %.2f\t\n',
+                        epoch, tm:time().real, loss, acc, bacc))
 
     opt.plotter:add('accuracy', 'train', epoch, acc)
+    opt.plotter:add('balanced_accuracy', 'train', epoch, bacc)
     opt.plotter:add('loss', 'train', epoch, loss)
     opt.plotter:add('LR', 'train', epoch, optimState.learningRate)
 
@@ -148,6 +157,19 @@ function trainBatch(inputsCPU, labelsCPU)
             if scores_sorted[i][1] == labelsCPU[i] then -- correct prediction
                 acc = acc + 1; 
                 accBatch = accBatch + 1
+                if labelsCPU[i] == 1 then
+                    true_nonporn = true_nonporn + 1
+                    total_nonporn = total_nonporn + 1
+                else
+                    true_porn = true_porn + 1
+                    total_porn = total_porn + 1
+                end
+            else
+                if labelsCPU[i] == 1 then
+                    total_nonporn = total_nonporn + 1
+                else
+                    total_porn = total_porn + 1
+                end
             end
         end
         accBatch = accBatch * 100 / opt.batchSize;
