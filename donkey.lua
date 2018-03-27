@@ -49,6 +49,17 @@ local function getNumberOfFrames(video_name)
    return tonumber(lines[1])
 end
 
+local function getVideoFPS(video_name)
+   if string.match(video_name, "_") then
+       video_name = video_name:sub(1, -8)
+   end
+--    print(video_name) 
+   paths.dofile('utils.lua')
+   local lines = lines_from(paths.concat(opt.dimensionsDir .. '/video_fps', video_name .. '.etf'))
+--    print(video_name .. '  ' .. lines[1]) 
+   return tonumber(lines[1])
+end
+
 -- Load a sequence of rgb images
 local function loadRGB(path, set)
     local _className = paths.basename(paths.dirname(path))
@@ -81,6 +92,10 @@ local function loadRGB(path, set)
 --    print('offset ' .. offset)
     local t_beg, t_end
 
+    if(opt.framestep = 'fps_based') then
+       opt.framestep = (getVideoFPS(_videoName) * opt.time_window)/loadSize[2]
+    end
+
     if(matched == nil) then -- during training epochs (i.e. one clip per video)
         if(set == 'train') then -- random clip
             t_beg = math.ceil(torch.uniform( offset, N-(loadSize[2] * opt.framestep) +1))
@@ -103,7 +118,9 @@ local function loadRGB(path, set)
 		end
 	else
 		if((N - offset + 1) < (loadSize[2] * opt.framestep) or t_beg <= 0) then -- Not enough frames
-			nPad = (loadSize[2] * opt.framestep) - (N - offset + 1)
+			opt.framestep = (N - offset +1)/ loadSize[2]
+			--nPad = (loadSize[2] * opt.framestep) - (N - offset + 1)
+			nPad = 0
 			t_beg = tonumber(string.sub(_videoName, -15,-11))
 		end
 	end
@@ -129,7 +146,7 @@ local function loadRGB(path, set)
         if(opt.nott7 == false) then
             img = image.decompressJPG(video[tt]:byte())-- [0, 1]
         else
-            file_name = paths.concat(opt.framesRoot .. '/../jpg', string.sub(_videoName,1, -17), string.sub(_videoName,1, -17) .. string.format('.mp4_%05d.jpg', tt))
+            file_name = paths.concat(opt.framesRoot .. '/../jpg', string.sub(_videoName,1, -17), string.sub(_videoName,1, -17) .. string.format('.mp4_%05d.jpg', math.ceil(tt)))
             if not file_exists(file_name) then
                 print(file_name .. ' not exist')
 				print(t_beg)
