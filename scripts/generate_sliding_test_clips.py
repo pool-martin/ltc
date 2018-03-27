@@ -21,10 +21,12 @@ generate_sliding_test_clips.
 - Authors: Joao Paulo Martin (joao.paulo.pmartin@gmail.com) 
 ''' 
 
-dataRoot = '/data/torch/ltc/datasets/2kporn/';
+dataRoot = '/home/jp/DL/2kporn/';
 import os
 import math
 from subprocess import call
+import fnmatch
+import re
 
 def get_dir_content(folder):
 	video_patches = []
@@ -34,13 +36,13 @@ def get_dir_content(folder):
 
 # Loop over three splits
 for split in range(1,2):
-#    testDir = os.path.join(dataRoot, 'splits', 'split' + str(split), 'validation');
-    testDir = os.path.join(dataRoot, 'rgb', 'jpg');
+    testDir = os.path.join(dataRoot, 'splits', 'split' + str(split), 'validation');
+    #testDir = os.path.join(dataRoot, 'rgb', 'jpg');
     # Loop over possible window sizes
     for W in range(16,17):
         # Loop over possible skips
         for skip in range (4, 5):
-            targetDir = os.path.join(dataRoot, 'splits', 'split' + str(split), 'test_'+ str(W) + '_' + str(skip));
+            targetDir = os.path.join(dataRoot, 'splits', 'split' + str(split), 'validation_'+ str(W) + '_' + str(skip));
             
             classes = ['NonPorn','Porn']
             
@@ -51,11 +53,16 @@ for split in range(1,2):
                 command = "mkdir -p " + os.path.join(targetDir, video_class)
                 print command
                 call(command, shell=True)
-                videos = get_dir_content(testDir)
+                videos = get_dir_content(os.path.join(testDir, video_class)
                 for video in videos:
                     print ('Class :' + video_class + ' - Video :' + video);
-                    frames = get_dir_content(os.path.join(dataRoot, 'rgb', 'jpg', video));
-                    totalDuration = len(frames); # note: nFlow = nRGB -1
+                    #frames = get_dir_content(os.path.join(dataRoot, 'rgb', 'jpg', video));q
+                    #totalDuration = len(frames); # note: nFlow = nRGB -1
+                    #totalDuration = len(fnmatch.filter(os.listdir(os.path.join(dataRoot, 'rgb', 'jpg', video)), '*.jpg')) 
+                    video_splited = re.split('_.', video)
+                    video_beg = int(video_splited[1])
+                    video_end = int(video_splited[2])
+                    totalDuration = video_end - video_beg
                     
                     nClips = int(math.ceil((totalDuration - W)/skip) + 1);
                     if(totalDuration < W):

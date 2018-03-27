@@ -92,7 +92,7 @@ local function loadRGB(path, set)
 --    print('offset ' .. offset)
     local t_beg, t_end
 
-    if(opt.framestep = 'fps_based') then
+    if(opt.time_window > 0) then
        opt.framestep = (getVideoFPS(_videoName) * opt.time_window)/loadSize[2]
     end
 
