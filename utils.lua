@@ -41,3 +41,10 @@ function readJpgAsBinary(imfile)
     fin:close()
     return img_binary
 end
+
+function writeBinaryAsJpg(imfile, img_binary)
+    local fin = torch.DiskFile(imfile, 'w')
+    fin:binary()
+    fin:writeByte(img_binary:storage())
+    fin:close()
+end

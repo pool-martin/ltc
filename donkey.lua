@@ -8,6 +8,8 @@ paths.dofile('dataset.lua')
 local trainCache = paths.concat(opt.cache, 'trainCache.t7')
 local testCache = paths.concat(opt.cache, 'testCache.t7')
 local meanstdCache = paths.concat(opt.cache, 'meanstdCache.t7')
+local sample_number = 0
+local crop_number = 0
 
 -- Check for existence of opt.data
 if not os.execute('cd ' .. opt.data) then
@@ -44,18 +46,19 @@ local function getNumberOfFrames(video_name)
    end
 --    print(video_name) 
    paths.dofile('utils.lua')
-   local lines = lines_from(paths.concat(opt.dimensionsDir .. '/number_of_frames_video', video_name .. '.etf'))
+   local lines = lines_from(paths.concat(opt.dimensionsDir, '../number_of_frames_video', video_name .. '.etf'))
 --    print(video_name .. '  ' .. lines[1]) 
    return tonumber(lines[1])
 end
 
 local function getVideoFPS(video_name)
    if string.match(video_name, "_") then
-       video_name = video_name:sub(1, -8)
+       video_name = video_name:sub(1, -17)
    end
---    print(video_name) 
+   etf_file = paths.concat(opt.dimensionsDir, '../video_fps', video_name .. '.etf')
+--    print(video_name .. ' ' .. etf_file) 
    paths.dofile('utils.lua')
-   local lines = lines_from(paths.concat(opt.dimensionsDir .. '/video_fps', video_name .. '.etf'))
+   local lines = lines_from(etf_file)
 --    print(video_name .. '  ' .. lines[1]) 
    return tonumber(lines[1])
 end
@@ -87,26 +90,31 @@ local function loadRGB(path, set)
         N = tonumber(string.sub(_videoName, -9, -5))
         offset = tonumber(string.sub(_videoName, -15,-11))
     end
---    print('_videoName ' .. _videoName)
+    --print('_videoName ' .. _videoName)
 --    print('N ' .. N)
---    print('offset ' .. offset)
+    --print('N ' .. N .. ', offset ' .. offset)
     local t_beg, t_end
+	
+	local framestep_l
+	
+	framestep_l = opt.framestep
 
     if(opt.time_window > 0) then
-       opt.framestep = (getVideoFPS(_videoName) * opt.time_window)/loadSize[2]
+       framestep_l = (getVideoFPS(_videoName) * opt.time_window)/loadSize[2]
     end
+	
 
     if(matched == nil) then -- during training epochs (i.e. one clip per video)
         if(set == 'train') then -- random clip
-            t_beg = math.ceil(torch.uniform( offset, N-(loadSize[2] * opt.framestep) +1))
+            t_beg = math.ceil(torch.uniform( offset, N-(loadSize[2] * framestep_l) +1))
         elseif(set == 'test') then
             t_beg = offset -- first clip, one can change it to middle clip etc
         end
     else -- final test (i.e. all clips)
         t_beg = getInterval(tonumber(matched:sub(6, 9)))
         -- If the chunk is the last bit with some frames overlapped from the previous
-        if(t_beg + (loadSize[2] * opt.framestep) - 1 > N) then
-            t_beg = N - (loadSize[2] * opt.framestep) + 1
+        if(t_beg + (loadSize[2] * framestep_l) - 1 > N) then
+            t_beg = N - (loadSize[2] * framestep_l) + 1
         end
     end
 
@@ -117,16 +125,17 @@ local function loadRGB(path, set)
 			t_beg = 1
 		end
 	else
-		if((N - offset + 1) < (loadSize[2] * opt.framestep) or t_beg <= 0) then -- Not enough frames
-			opt.framestep = (N - offset +1)/ loadSize[2]
-			--nPad = (loadSize[2] * opt.framestep) - (N - offset + 1)
+		if((N - offset + 1) < (loadSize[2] * framestep_l) or t_beg <= 0) then -- Not enough frames
+			framestep_l = (N - offset + 1)/ (loadSize[2])
+			--nPad = (loadSize[2] * framestep_l) - (N - offset + 1)
 			nPad = 0
 			t_beg = tonumber(string.sub(_videoName, -15,-11))
 		end
 	end
 
-    t_end = t_beg + (loadSize[2] * opt.framestep) - 1
-   
+    t_end = t_beg + (loadSize[2] * framestep_l) - 1
+   	--print('t_beg: '.. t_beg .. ', t_end: ' .. t_end .. ', nPad: ' ..  nPad .. ', framestep_l: ' .. framestep_l)
+
     -- Allocate memory
     local input
     if(opt.cropbeforeresize) then
@@ -142,26 +151,39 @@ local function loadRGB(path, set)
     end
    
     -- Read/process frames
-    for tt = t_beg,t_end - nPad, opt.framestep do
+	local table_index = 1
+    for tt = t_beg,t_end - nPad + 1, framestep_l do
         if(opt.nott7 == false) then
             img = image.decompressJPG(video[tt]:byte())-- [0, 1]
         else
-            file_name = paths.concat(opt.framesRoot .. '/../jpg', string.sub(_videoName,1, -17), string.sub(_videoName,1, -17) .. string.format('.mp4_%05d.jpg', math.ceil(tt)))
+            file_name = paths.concat(opt.framesRoot .. '/../jpg', string.sub(_videoName,1, -17), string.sub(_videoName,1, -17) .. string.format('.mp4_%05d.jpg', math.floor(tt)))
             if not file_exists(file_name) then
                 print(file_name .. ' not exist')
 				print(t_beg)
 				print(t_end)
 				print(nPad)
             end
+			--print(tt)
 --            print(opt.framesRoot)
                 img = image.decompressJPG(readJpgAsBinary(file_name):byte())
+				--img = image.load(file_name, 3, 'float') 
         end
         if(opt.cropbeforeresize) then
-            input[{{}, {tt - t_beg + 1}, {}, {}}] = image.crop(img, 'c', loadSize[4], loadSize[3]):float():mul(opt.coeff)
+            input[{{}, {table_index}, {}, {}}] = image.crop(img, 'c', loadSize[4], loadSize[3]):float():mul(opt.coeff)
         else
-            input[{{}, {tt - t_beg + 1}, {}, {}}] = image.scale(img, loadSize[4], loadSize[3]):float():mul(opt.coeff)
+            input[{{}, {table_index}, {}, {}}] = image.scale(img, loadSize[4], loadSize[3]):float():mul(opt.coeff)
         end
+		table_index = table_index + 1
+		if table_index > loadSize[2] then
+			break
+		end
     end
+	--print('t_end - nPad: ' .. t_end - nPad .. ', table_index: ' .. table_index)
+--	print('saving_crop '.. file_name .. ' /Exp/torch/ltc/temp/crop_' .. crop_number .. '.jpg')
+--	local compressed = image.compressJPG(input[{{},{loadSize[2]},{},{}}]:squeeze(), 100)
+--	writeBinaryAsJpg('/Exp/torch/ltc/temp/crop_' .. crop_number .. '.jpg', compressed)
+--	crop_number = crop_number + 1
+
    if(opt.nott7 == false) then
     if(nPad > 0) then
         if(opt.padType == 'copy') then  
@@ -413,11 +435,11 @@ local trainHook = function(self, path)
         -- resize to sample size
         if(out:size(1) ~= sampleSize[1] or out:size(2) ~= sampleSize[2] or out:size(3) ~= sampleSize[3] or out:size(4) ~= sampleSize[4]) then
             out_res = torch.Tensor(sampleSize[1], sampleSize[2], sampleSize[3], sampleSize[4])
-            for jj = 1, sampleSize[1] do
+            --for jj = 1, sampleSize[1] do
                 for ii = 1, sampleSize[2] do
-                    out_res[{{jj}, {ii}, {}, {}}] = image.scale(out[{{jj}, {ii}, {}, {}}]:squeeze(), sampleSize[4], sampleSize[3])
+                    out_res[{{}, {ii}, {}, {}}] = image.scale(out[{{}, {ii}, {}, {}}]:squeeze(), sampleSize[4], sampleSize[3])
                 end
-            end
+            --end
             out = out_res
 
             -- multiply the flow by the scale factor
@@ -426,6 +448,10 @@ local trainHook = function(self, path)
                 out[{{2},{},{},{}}]:mul(sampleSize[3]/oH)
             end
         end
+--		print('saving /Exp/torch/ltc/temp/sample_' .. sample_number .. '.jpg')
+--		local compressed = image.compressJPG(image.scale(out[{{}, {sampleSize[2]}, {}, {}}]:squeeze(), sampleSize[4], sampleSize[3]), 100)
+--		writeBinaryAsJpg('/Exp/torch/ltc/temp/sample_' .. sample_number .. '.jpg', compressed)
+--		sample_number = sample_number + 1
 
         assert(out:size(4) == sampleSize[4])
         assert(out:size(3) == sampleSize[3])
@@ -439,7 +465,7 @@ local trainHook = function(self, path)
 end
 
 if paths.filep(trainCache) then
-    print('Loading train metadata from cache')
+    print('Loading train metadata from cache : ' .. trainCache)
     trainLoader = torch.load(trainCache)
     trainLoader.sampleHookTrain = trainHook
     assert(trainLoader.paths[1] == paths.concat(opt.data, 'train'),
@@ -510,7 +536,7 @@ local testHook = function(self, path, region, hflip)
 
         local out
         if(opt.cropbeforeresize) then
-			print('cropbeforeresize 2 ' .. sampleSize[4] .. ' ' .. sampleSize[3])
+--			print('cropbeforeresize 2 ' .. sampleSize[4] .. ' ' .. sampleSize[3])
             out = input[{{}, {}, {}, {}}]
         else
             out = input[{{}, {}, {h1, h1+oH-1}, {w1, w1+oW-1}}]
@@ -518,13 +544,14 @@ local testHook = function(self, path, region, hflip)
 
         -- resize to sample size
         if(out:size(1) ~= sampleSize[1] or out:size(2) ~= sampleSize[2] or out:size(3) ~= sampleSize[3] or out:size(4) ~= sampleSize[4]) then
-			print('sample different from out. Sample: ' .. sampleSize[4] .. 'x' .. sampleSize[3] .. ' out: ' .. out:size(4) .. 'x' .. out:size(3))
+--			print('sample different from out. Sample: ' .. sampleSize[4] .. 'x' .. sampleSize[3] .. ' out: ' .. out:size(4) .. 'x' .. out:size(3))
             out_res = torch.Tensor(sampleSize[1], sampleSize[2], sampleSize[3], sampleSize[4])
-            for jj = 1, sampleSize[1] do
+            --for jj = 1, sampleSize[1] do
                 for ii = 1, sampleSize[2] do
-                    out_res[{{jj}, {ii}, {}, {}}] = image.scale(out[{{jj}, {ii}, {}, {}}]:squeeze(), sampleSize[4], sampleSize[3])
+            --      out_res[{{jj}, {ii}, {}, {}}] = image.scale(out[{{jj}, {ii}, {}, {}}]:squeeze(), sampleSize[4], sampleSize[3])
+                    out_res[{{jj}, {ii}, {}, {}}] = image.scale(out[{{}, {ii}, {}, {}}]:squeeze(), sampleSize[4], sampleSize[3])
                 end
-            end
+            --end
             out = out_res
 
             -- multiply the flow by the scale factor

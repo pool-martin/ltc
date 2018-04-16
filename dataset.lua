@@ -341,7 +341,8 @@ function dataset:get(i1, i2)
 
    for i=1,quantity do
       -- load the sample
-      local imgpath = ffi.string(torch.data(self.imagePath[indices[i]]))  
+      local imgpath = ffi.string(torch.data(self.imagePath[indices[i]]))
+      --print("imgpath: " .. imgpath)
       local out
       if(opt.crops10) then
         -- sample 4 corners + the center, and their flipped versions (in total 10 per test instance)
@@ -388,11 +389,11 @@ function dataset:computeAccuracy(scores)
    local clips = torch.Tensor(scores:size(1))
    for i = 1, scores:size(1) do
       N = ffi.string(torch.data(self.imagePath[i])) --v_ApplyEyeMakeup_g01_c01.avi_0017.avi
-      N = paths.basename(N, 'avi')                  --v_ApplyEyeMakeup_g01_c01.avi_0017
+      N = paths.basename(N, 'mp4')                  --v_ApplyEyeMakeup_g01_c01.avi_0017
       N = paths.basename(N, paths.extname(N))       --v_ApplyEyeMakeup_g01_c01
       
       for j = 1, testCacheVid.numSamples do
-         if(N == paths.basename(ffi.string(torch.data(testCacheVid.imagePath[j])), 'avi')) then
+         if(N == paths.basename(ffi.string(torch.data(testCacheVid.imagePath[j])), 'mp4')) then
             clips[i] = j
             break
          end

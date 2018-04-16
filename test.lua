@@ -70,6 +70,8 @@ function test()
         local videoAcc = testLoader:computeAccuracy(clipScores)
         local result = {}
         result.accuracy = videoAcc
+        result.balanced_clip_accuracy = bacc
+        result.clip_accuracy = bacc
         result.scores = clipScores
         torch.save(paths.concat(opt.save, 'result.t7'), result)
         testLogger:add{
@@ -140,7 +142,11 @@ function testBatch(inputsCPU, labelsCPU, indicesCPU)
         end
 
         if(opt.evaluate) then
-            clipScores[indicesCPU[i]] = scoresCPU[i]
+            if indicesCPU[i] then
+                clipScores[indicesCPU[i]] = scoresCPU[i]
+            else
+                print(string.format('indicedCPU invalid i %d - (indicesCPU) %d] \t scoresCPU[i] %f \t Acc %.2f', i, #indicesCPU, scoresCPU[i]))
+            end
         end
     end
 

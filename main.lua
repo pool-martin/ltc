@@ -17,7 +17,7 @@ if(opt.stream == 'flow')    then opt.mean =  0; nChannels = 2
 elseif(opt.stream == 'rgb') then opt.mean = 96; nChannels = 3; opt.coeff = 255 end
 
 opt.save            = paths.concat(opt.logRoot, opt.dataset, opt.expName)
-opt.cache           = paths.concat(opt.logRoot, opt.dataset, 'cache', opt.stream)
+opt.cache           = paths.concat(opt.logRoot, opt.dataset, 'cache', opt.stream, opt.slide)
 opt.data            = paths.concat(opt.dataRoot, opt.dataset, 'splits', 'split' .. opt.split)
 opt.framesRoot      = paths.concat(opt.dataRoot, opt.dataset, opt.stream, 't7')
 opt.forceClasses    = torch.load(paths.concat(opt.dataRoot, opt.dataset, 'annot/forceClasses.t7'))
@@ -28,11 +28,13 @@ paths.dofile(opt.LRfile)
 
 -- Testing final predictions
 if(opt.evaluate) then
-    opt.save         = paths.concat(opt.logRoot, opt.dataset, opt.expName, 'test_' .. opt.modelNo .. '_slide' .. opt.slide)
+--    opt.save         = paths.concat(opt.logRoot, opt.dataset, opt.expName, 'test_' .. opt.modelNo .. '_slide' .. opt.slide)
+    opt.save         = paths.concat(opt.logRoot, opt.dataset, opt.expName, opt.testDir .. '_' .. opt.modelNo .. '_slide' .. opt.slide)
     opt.cache        = paths.concat(opt.logRoot, opt.dataset, 'cache', 'test', opt.stream)
     opt.scales       = false
 --    opt.crops10      = true
-    opt.testDir      = 'test_' .. opt.loadSize[2] .. '_' .. opt.slide
+--    opt.testDir      = 'test_' .. opt.loadSize[2] .. '_' .. opt.slide
+    opt.testDir      = opt.testDir .. '_' .. opt.loadSize[2] .. '_' .. opt.slide
     opt.retrain      = paths.concat(opt.logRoot, opt.dataset, opt.expName, 'model_' .. opt.modelNo .. '.t7')
     opt.finetune     = 'none'
 end
