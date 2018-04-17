@@ -21,6 +21,7 @@ function M.parse(arg)
     cmd:option('-nott7',           true,                    'use t7 files or jpg folder')
     cmd:option('-framestep',       1,                       'every [framestep] frame is used to create the window/snippet')
     cmd:option('-time_window',     0,                       'adjust the framestep based on video fps and nFrames to match this time_window value in seconds. if > 0')
+    cmd:option('-time_slide',      0,                       'adjust the slide based on video fps to match this time_slide value in seconds. if > 0')
     ------------ General options --------------------
     cmd:option('-manualSeed',      2,                       'Manually set RNG seed')
     cmd:option('-GPU',             1,                       'Default preferred GPU')

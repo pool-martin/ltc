@@ -29,12 +29,13 @@ paths.dofile(opt.LRfile)
 -- Testing final predictions
 if(opt.evaluate) then
 --    opt.save         = paths.concat(opt.logRoot, opt.dataset, opt.expName, 'test_' .. opt.modelNo .. '_slide' .. opt.slide)
-    opt.save         = paths.concat(opt.logRoot, opt.dataset, opt.expName, opt.testDir .. '_' .. opt.modelNo .. '_slide' .. opt.slide)
-    opt.cache        = paths.concat(opt.logRoot, opt.dataset, 'cache', 'test', opt.stream)
+    local time_config = opt.time_window .. '_' .. opt.time_slide .. '_' .. opt.loadSize[2] .. '_' .. opt.slide
+    opt.save         = paths.concat(opt.logRoot, opt.dataset, opt.expName, opt.testDir .. '_' .. time_config .. '_' .. opt.modelNo)
+    opt.cache        = paths.concat(opt.logRoot, opt.dataset, 'cache', opt.testDir, opt.stream, time_config)
     opt.scales       = false
 --    opt.crops10      = true
 --    opt.testDir      = 'test_' .. opt.loadSize[2] .. '_' .. opt.slide
-    opt.testDir      = opt.testDir .. '_' .. opt.loadSize[2] .. '_' .. opt.slide
+    opt.testDir      = opt.testDir .. '_' .. time_config
     opt.retrain      = paths.concat(opt.logRoot, opt.dataset, opt.expName, 'model_' .. opt.modelNo .. '.t7')
     opt.finetune     = 'none'
 end
