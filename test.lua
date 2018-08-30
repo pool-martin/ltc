@@ -4,6 +4,24 @@ local batchNumber
 local acc, loss, bacc, true_nonporn, total_nonporn, true_porn, total_porn
 local timer = torch.Timer()
 
+function save_to_file(file, text)
+  local f = io.open(file, "a")
+  if f then 
+    f:write(text)
+    f:close()
+  end
+  return f ~= nil
+end
+
+local dump = function(vec)
+    vec = vec:view(vec:nElement())
+    local t = {}
+    for i=1,vec:nElement() do
+        t[#t+1] = string.format('%.4f', vec[i])
+    end
+    return table.concat(t, '  ')
+end
+
 function test()
     local optimState 
     batchNumber = 0
@@ -14,10 +32,13 @@ function test()
     model:evaluate()
     if(opt.crops10) then nDiv = 10 else nDiv = 1 end
     local N = nTest/torch.floor(opt.batchSize/nDiv) -- nTest is set in data.lua
+    print("N: " .. N)
 
     if(opt.evaluate) then
         print('==> testing final predictions')
-        clipScores = torch.Tensor(N, nClasses)
+        clipScores = torch.Tensor(N, nClasses):zero()
+--        print('clipScores size: '.. clipScores:dim() .. ' ' .. clipScores:size(1) .. ' ' .. clipScores:size(2))
+        print('clipScores size: '.. clipScores:dim() )
     else
         optimState = torch.load(paths.concat(opt.save, 'optimState_' .. epoch .. '.t7'))
         print('==> validation epoch # ' .. epoch)
@@ -37,8 +58,9 @@ function test()
         donkeys:addjob(
             -- work to be done by donkey thread
             function()
-                local inputs, labels, indices = testLoader:get(indexStart, indexEnd)
-                return inputs, labels, indices
+                local inputs, labels, indices, video_paths = testLoader:get(indexStart, indexEnd)
+                --print('inputs: ['.. inputs:dim() .. ' ' .. inputs:size(1) .. ' ' .. inputs:size(2) .. ' ' .. inputs:size(3) .. ' ' .. inputs:size(4) .. ' ' .. inputs:size(5) .. '] labels: ['.. labels:dim()  .. ' ' .. labels:size(1) .. '] indices: [' .. indices:dim() .. ' ' .. indices:size(1) .. ']')
+                return inputs, labels, indices, video_paths
             end,
         -- callback that is run in the main thread once the work is done
         testBatch
@@ -88,20 +110,31 @@ end -- of test()
 local inputs = torch.CudaTensor()
 local labels = torch.CudaTensor()
 
-function testBatch(inputsCPU, labelsCPU, indicesCPU)
+function testBatch(inputsCPU, labelsCPU, indicesCPU, video_paths)
+--     print('inputsCPU: ['.. inputsCPU:dim() .. ' ' .. inputsCPU:size(1) .. ' ' .. inputsCPU:size(2) .. ' ' .. inputsCPU:size(3) .. ' ' .. inputsCPU:size(4) .. ' ' .. inputsCPU:size(5) .. '] labelsCPU: ['.. labelsCPU:dim()  .. ' ' .. labelsCPU:size(1) .. '] indicesCPU: [' .. indicesCPU:dim() .. ' ' .. indicesCPU:size(1) .. ']')
+--     print('video_paths')
+--     print(video_paths)
+	 
     if(opt.crops10) then
         batchNumber = batchNumber + torch.floor(opt.batchSize/10)
     else
         batchNumber = batchNumber + torch.floor(opt.batchSize)
     end
     inputs:resize(inputsCPU:size()):copy(inputsCPU)
+--    print('inputs: ['.. inputs:dim() .. ' ' .. inputs:size(1) .. ' ' .. inputs:size(2) .. ' ' .. inputs:size(3) .. ' ' .. inputs:size(4) .. ' ' .. inputs:size(5) .. ']')
 
     local outputs
     if(opt.finetune == 'last') then
         outputs = model:forward(features:forward(inputs))
     else
         outputs = model:forward(inputs)
+		feats = model.modules[22].output
     end
+--    print('A outputs: ['.. outputs:dim()  .. ' ' .. outputs:size(1) .. ']')
+--    for teste = 1, outputs:size(1) do
+--        print ("outputs")
+--        print (outputs)
+--    end
 
     if(opt.crops10) then
         outputs     = torch.reshape(outputs, outputs:size(1)/10, 10, outputs:size(2))
@@ -112,18 +145,32 @@ function testBatch(inputsCPU, labelsCPU, indicesCPU)
         outputs = outputs:view(opt.batchSize, -1) -- useful for opt.batchSize == 1
     end
     
+--    print('outputs: ['.. outputs:dim()  .. ' ' .. outputs:size(1) .. ' ' .. outputs:size(2) .. ']')
+    
     labels:resize(labelsCPU:size()):copy(labelsCPU)
     local lossBatch = criterion:forward(outputs, labels) 
     cutorch.synchronize()
     loss = loss + lossBatch
 
     local scoresCPU = outputs:float() -- N x 101
+  --  print ("scoresCPU")
+--    print (scoresCPU)
     local gt, pred
-
+--    print('scoresCPU: ['.. scoresCPU:dim()  .. ' ' .. scoresCPU:size(1) .. ' ' .. scoresCPU:size(2) .. ']')
+    
     local _, scores_sorted = scoresCPU:sort(2, true)
-    for i=1,scoresCPU:size(1) do
+--    print("scores_sorted")
+--    print(scores_sorted)
+    for i=1,labelsCPU:size(1) do
         gt = labelsCPU[i]                    -- ground truth class
         pred = scores_sorted[i][1]           -- predicted class
+--        print("gt")
+--        print(gt)
+--        print("pred")
+--        print(pred)
+--        print("indicesCPU[i]")
+--        print(indicesCPU)
+
         if pred == gt then  -- correct prediction
             acc = acc + 1
             if labelsCPU[i] == 1 then
@@ -141,19 +188,24 @@ function testBatch(inputsCPU, labelsCPU, indicesCPU)
             end
         end
 
+		if unexpected_condition then print("error saving clipScores!") end
         if(opt.evaluate) then
+		    save_to_file(paths.concat(opt.save, 'feats.txt'), string.format('p %s i %d l %d s %s f %s\n', video_paths[i], indicesCPU[i], labelsCPU[i], dump(scoresCPU[i]), dump(feats)))
             if indicesCPU[i] then
                 clipScores[indicesCPU[i]] = scoresCPU[i]
             else
                 print(string.format('indicedCPU invalid i %d - (indicesCPU) %d] \t scoresCPU[i] %f \t Acc %.2f', i, #indicesCPU, scoresCPU[i]))
             end
         end
+        collectgarbage()
     end
 
+	print(true_nonporn, total_nonporn, true_porn, total_porn)
+    bacc = ((true_nonporn / total_nonporn) + (true_porn / total_porn)) * 100 / 2
     if(opt.evaluate) then
-        print(string.format('Testing [%d/%d] \t Loss %.4f \t Acc %.2f', batchNumber, nTest, lossBatch, 100*acc/batchNumber))
+        print(string.format('Testing [%d/%d] \t Loss %.4f \t Acc %.2f \t Bacc %.2f', batchNumber, nTest, lossBatch, 100*acc/batchNumber, bacc))
     else
-        print(string.format('Epoch: Testing [%d][%d/%d] \t Loss %.4f \t Acc %.2f', epoch, batchNumber, nTest, lossBatch, 100*acc/batchNumber))
+        print(string.format('Epoch: Testing [%d][%d/%d] \t Loss %.4f \t Acc %.2f \t Bacc %.2f', epoch, batchNumber, nTest, lossBatch, 100*acc/batchNumber, bacc))
     end
     collectgarbage()
 end

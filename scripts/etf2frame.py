@@ -114,7 +114,8 @@ def opencv_etf_2_frames(video_path, walked_tree, args):
 	etf_time = os.path.dirname(video_path) + "/../etf/" + video_name + ".etf"
 	etf_frame = os.path.dirname(video_path) + "/../etf_frame/" + video_name + ".etf"
 	video_fps = os.path.dirname(video_path) + "/../video_fps/" + video_name + ".etf"
-
+	video_length = os.path.dirname(video_path) + "/../video_length/" + video_name + ".etf"
+	
 	#print etf_time
 	print "video path %s " % video_path
 	labels = get_localization_labels(etf_time)
@@ -128,6 +129,8 @@ def opencv_etf_2_frames(video_path, walked_tree, args):
 
 	with open(video_fps, "w") as f:
 		f.write(str(fps)) 
+	with open(video_length, "w") as f:
+		f.write(str(length)) 
 
 	localization_flag = {}
 

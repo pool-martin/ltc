@@ -68,6 +68,10 @@ def create_splits(folder, args):
 		call(command, shell=True)
 		command = "mkdir -p " + os.path.join('/home/jp/EQM/torch/ltc/datasets/2kporn/splits/split1/validation/', split_content[1])
 		call(command, shell=True)
+		command = "mkdir -p " + os.path.join('/home/jp/EQM/torch/ltc/datasets/2kporn/splits/split1/svm_train/', split_content[1])
+		call(command, shell=True)
+		command = "mkdir -p " + os.path.join('/home/jp/EQM/torch/ltc/datasets/2kporn/splits/split1/svm_validation/', split_content[1])
+		call(command, shell=True)
 
 	positive_network_set = []
 	negative_network_set = []
@@ -75,6 +79,10 @@ def create_splits(folder, args):
 	negative_network_validation_set = []
 	positive_network_training_set = []
 	negative_network_training_set = []
+	positive_svm_validation_set = []
+	negative_svm_validation_set = []
+	positive_svm_training_set = []
+	negative_svm_training_set = []
 
 	full_dir_path = os.path.join(folder, args.split_number)
 	
@@ -122,6 +130,50 @@ def create_splits(folder, args):
 				print command
 				call(command, shell=True)
 	
+
+	###########################################
+	#collecting all split1 svm training videos
+
+	positive_svm_training_set_path = os.path.join(full_dir_path, 'positive_svm_training_set.txt')
+	negative_svm_training_set_path = os.path.join(full_dir_path, 'negative_svm_training_set.txt')
+	with open(positive_svm_training_set_path) as f:
+		content = f.readlines()
+	with open(negative_svm_training_set_path) as f:
+		content = content + f.readlines()
+	
+	#getting the patches to each video and saving it in the right class
+	for line in content:
+		video_name = line.strip().split(' ')[0]
+		print video_name
+		#train
+		for video_class in video_classes:
+			video_patches = get_video_patches("/home/jp/EQM/torch/ltc/datasets/2kporn/rgb/t7/", video_class, video_name)
+			for patch in video_patches:
+				command = "touch " + os.path.join('/home/jp/EQM/torch/ltc/datasets/2kporn/splits/split1/svm_train/', video_class, patch[:-3])
+				print command
+				call(command, shell=True)
+
+	###########################################
+	#collecting all split1 svm validation videos
+
+	positive_svm_validation_set_path = os.path.join(full_dir_path, 'positive_svm_validation_set.txt')
+	negative_svm_validation_set_path = os.path.join(full_dir_path, 'negative_svm_validation_set.txt')
+	with open(positive_svm_validation_set_path) as f:
+		content = f.readlines()
+	with open(negative_svm_validation_set_path) as f:
+		content = content + f.readlines()
+		
+		#getting the patches to each video and saving it in the right class
+	for line in content:
+		video_name = line.strip().split(' ')[0]
+		print video_name
+		#train
+		for video_class in video_classes:
+			video_patches = get_video_patches("/home/jp/EQM/torch/ltc/datasets/2kporn/rgb/t7/", video_class, video_name)
+			for patch in video_patches:
+				command = "touch " + os.path.join('/home/jp/EQM/torch/ltc/datasets/2kporn/splits/split1/svm_validation/', video_class, patch[:-3])
+				print command
+				call(command, shell=True)
 
 	###########################################
 	#collecting all split1 test videos

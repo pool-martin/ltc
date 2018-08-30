@@ -1,4 +1,4 @@
-FROM python:2.7-jessie
+FROM nvidia/cuda:8.0-cudnn5-devel
 
 # install torch deps
 RUN apt-get update \
@@ -16,51 +16,11 @@ RUN git clone https://github.com/xianyi/OpenBLAS.git /tmp/OpenBLAS \
     && make install \
     && rm -rf /tmp/OpenBLAS
 
-# install cuda
-ENV CUDA_RUN https://developer.nvidia.com/compute/cuda/8.0/prod/local_installers/cuda_8.0.44_linux-run
-
-RUN apt-get update && apt-get install -q -y \
-  wget \
-  module-init-tools \
-  build-essential 
-
-RUN cd /opt && \
-  wget $CUDA_RUN && \
-  chmod +x cuda_8.0.44_linux-run && \
-  mkdir nvidia_installers && \
-  ./cuda_8.0.44_linux-run -extract=`pwd`/nvidia_installers && \
-  cd nvidia_installers && \
-  ./NVIDIA-Linux-x86_64-367.48.run -s -N --no-kernel-module
-
-RUN cd /opt/nvidia_installers && \
-  ./cuda-linux64-rel-8.0.44-21122537.run -noprompt
-
-# Ensure the CUDA libs and binaries are in the correct environment variables
-ENV LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-8.0/lib64
-ENV PATH=$PATH:/usr/local/cuda-8.0/bin
-
-RUN cd /opt/nvidia_installers &&\
-    ./cuda-samples-linux-8.0.44-21122537.run -noprompt -cudaprefix=/usr/local/cuda-8.0 &&\
-    cd /usr/local/cuda/samples/1_Utilities/deviceQuery &&\ 
-    make
-
-# WORKDIR /usr/local/cuda/samples/1_Utilities/deviceQuery
-
-RUN echo "deb http://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu1604/x86_64 /" > /etc/apt/sources.list.d/nvidia-ml.list
-
-ENV CUDNN_VERSION 5.1.10
-LABEL com.nvidia.cudnn.version="${CUDNN_VERSION}"
-
-RUN apt-get update && apt-get install -y --no-install-recommends \
-            libcudnn5=$CUDNN_VERSION-1+cuda8.0 \
-            libcudnn5-dev=$CUDNN_VERSION-1+cuda8.0 && \
-    rm -rf /var/lib/apt/lists/*
-
-
 # install torch
 RUN git clone https://github.com/torch/distro.git /torch --recursive \
     && cd /torch \
-    && ./install.sh \
+    && ./clean.sh \
+    && TORCH_NVCC_FLAGS="-D__CUDA_NO_HALF_OPERATORS__" ./install.sh \
     && cd ..
 
 # install torch deps
@@ -86,6 +46,13 @@ RUN git clone https://github.com/torch/cutorch \
     && mkdir -p $(pwd)/build-nvcc \
     && TORCH_NVCC_FLAGS="--keep --keep-dir=$(pwd)/build-nvcc" /torch/install/bin/luarocks make /cutorch/rocks/cutorch-scm-1.rockspec \
     && rm -rf build-nvcc 
+
+RUN git clone https://github.com/soumith/cudnn.torch.git -b R5 \
+    && cd cudnn.torch \
+    && mkdir -p $(pwd)/build-nvcc \
+    && TORCH_NVCC_FLAGS="--keep --keep-dir=$(pwd)/build-nvcc" /torch/install/bin/luarocks make cudnn-scm-1.rockspec \
+    && rm -rf build-nvcc 
+#    && /torch/install/bin/luarocks make cudnn-scm-1.rockspec
 
 # set torch env
 ENV LUA_PATH='/root/.luarocks/share/lua/5.1/?.lua;/root/.luarocks/share/lua/5.1/?/init.lua;/root/torch/install/share/lua/5.1/?.lua;/root/torch/install/share/lua/5.1/?/init.lua;./?.lua;/root/torch/install/share/luajit-2.1.0-alpha/?.lua;/usr/local/share/lua/5.1/?.lua;/usr/local/share/lua/5.1/?/init.lua' \

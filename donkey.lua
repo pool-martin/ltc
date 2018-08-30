@@ -65,6 +65,7 @@ end
 
 -- Load a sequence of rgb images
 local function loadRGB(path, set)
+--    print(path)
     local _className = paths.basename(paths.dirname(path))
     local _videoName = paths.basename(path)
     local matched = _videoName:match('.mp4_%d%d%d%d')
@@ -549,7 +550,7 @@ local testHook = function(self, path, region, hflip)
             --for jj = 1, sampleSize[1] do
                 for ii = 1, sampleSize[2] do
             --      out_res[{{jj}, {ii}, {}, {}}] = image.scale(out[{{jj}, {ii}, {}, {}}]:squeeze(), sampleSize[4], sampleSize[3])
-                    out_res[{{jj}, {ii}, {}, {}}] = image.scale(out[{{}, {ii}, {}, {}}]:squeeze(), sampleSize[4], sampleSize[3])
+                    out_res[{{}, {ii}, {}, {}}] = image.scale(out[{{}, {ii}, {}, {}}]:squeeze(), sampleSize[4], sampleSize[3])
                 end
             --end
             out = out_res
@@ -563,12 +564,15 @@ local testHook = function(self, path, region, hflip)
 
         assert(out:size(4) == sampleSize[4])
         assert(out:size(3) == sampleSize[3])
-
+        assert(out:size(2) == sampleSize[2])
+        assert(out:size(1) == sampleSize[1])
+        
         out:add(-mean)
 
-        if hflip then out = image.flip(out:contiguous(), 4); end
+--        if hflip then out = image.flip(out:contiguous(), 4); end
         return out
     end
+	collectgarbage()
 end
 
 if paths.filep(testCache) then

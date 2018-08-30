@@ -338,6 +338,7 @@ function dataset:get(i1, i2)
    local dataTable = {}
    local labelTable = {}
    local indexTable = {}
+   local videoTable = {}
 
    for i=1,quantity do
       -- load the sample
@@ -373,10 +374,11 @@ function dataset:get(i1, i2)
           table.insert(dataTable, out)
         end
         table.insert(labelTable, self.imageClass[indices[i]])
+        table.insert(videoTable, imgpath)
       end
    end
    local data, labels = tableToOutput(self, dataTable, labelTable)
-   return data, labels, indices
+   return data, labels, indices, videoTable
 end
 
 function dataset:computeAccuracy(scores)

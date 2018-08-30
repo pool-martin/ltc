@@ -17,12 +17,14 @@ if(opt.stream == 'flow')    then opt.mean =  0; nChannels = 2
 elseif(opt.stream == 'rgb') then opt.mean = 96; nChannels = 3; opt.coeff = 255 end
 
 opt.save            = paths.concat(opt.logRoot, opt.dataset, opt.expName)
-opt.cache           = paths.concat(opt.logRoot, opt.dataset, 'cache', opt.stream, opt.slide)
+opt.cache           = paths.concat(opt.logRoot, opt.dataset, 'cache', opt.stream, opt.time_window, opt.time_slide)
 opt.data            = paths.concat(opt.dataRoot, opt.dataset, 'splits', 'split' .. opt.split)
 opt.framesRoot      = paths.concat(opt.dataRoot, opt.dataset, opt.stream, 't7')
 opt.forceClasses    = torch.load(paths.concat(opt.dataRoot, opt.dataset, 'annot/forceClasses.t7'))
 opt.loadSize        = {nChannels, opt.nFrames, opt.loadHeight,      opt.loadWidth}
 opt.sampleSize      = {nChannels, opt.nFrames, opt.sampleHeight, opt.sampleWidth}
+local time_config = opt.time_window .. '_' .. opt.time_slide .. '_' .. opt.loadSize[2] .. '_' .. opt.slide
+opt.testDir         = opt.testDir .. '_' .. time_config
 
 paths.dofile(opt.LRfile)
 
@@ -35,7 +37,7 @@ if(opt.evaluate) then
     opt.scales       = false
 --    opt.crops10      = true
 --    opt.testDir      = 'test_' .. opt.loadSize[2] .. '_' .. opt.slide
-    opt.testDir      = opt.testDir .. '_' .. time_config
+--    opt.testDir      = opt.testDir .. '_' .. time_config
     opt.retrain      = paths.concat(opt.logRoot, opt.dataset, opt.expName, 'model_' .. opt.modelNo .. '.t7')
     opt.finetune     = 'none'
 end
@@ -75,9 +77,9 @@ if(not opt.evaluate) then
     paths.dofile('train.lua')
     epoch = opt.epochNumber
     for i=1,opt.nEpochs do
-        if (not opt.skip_train) then
-            train()
-        end
+--      if (not opt.skip_train) then
+        train()
+--        end
         test()
         os.execute('scp ' .. paths.concat(opt.save, 'plot.json') .. ' ' .. paths.concat('trainplot/plot-data/', opt.dataset, opt.expName:gsub('%W','') ..'.json'))
         epoch = epoch + 1
